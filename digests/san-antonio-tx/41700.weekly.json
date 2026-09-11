@@ -4,306 +4,211 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-08-30",
-    "end": "2026-09-05"
+    "start": "2026-09-05",
+    "end": "2026-09-11"
   },
-  "are_you_ok": [
+  "are_you_ok": [],
+  "conversation_starters": [
     {
-      "title": "CPS Energy wraps up days-long power restoration efforts after severe weather in San Antonio",
-      "summary": "Severe storms cut power to more than 250,000 customers of CPS Energy, the city-owned electric and gas utility, across San Antonio. In the first days after, the city ran six resilience hubs and the San Antonio Food Bank held three food distribution events for residents still in the dark, some sitting in homes in the low 90s. Outages fell from more than 100,000 to under 2,000 and then to the hundreds as crews worked through the week, and CPS Energy closed out the restoration effort saying power was back for all 250,000-plus customers affected.",
+      "title": "City Council approves $60 million purchase of land for new Spurs arena and OKs Midtown TIRZ extension—with a catch",
+      "summary": "San Antonio's City Council took up a 19-year extension of the Midtown TIRZ, a tax increment reinvestment zone that sets aside growth in property tax dollars to pay for specific projects in that area, pushing it out to 2060. Mayor Jones came out against the extension on the eve of the vote, but the Council approved it anyway, along with a $60 million land purchase for a new Spurs arena. Councilman Edward Mungia led a change that leaves the Council room to sunset the zone earlier than 2060.",
       "source": "KENS 5",
-      "topic": "weather-hazard",
+      "topic": "development-projects",
       "topics_secondary": [
-        "energy-utilities"
+        "government"
       ],
-      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-cps-energy-update-storm-aftermath-coverage-severe-weather-cleanup-power-outages-restoration-september-2026/273-b211af9c-91c2-4d9c-b08d-9c39383dcf33",
-      "published_at": "2026-09-03T22:26:08+00:00",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-government/spurs-arena-land-purchase-san-antonio-city-council-midtown-tirz/273-76e00b81-792a-4bfd-973f-142b863ae28e",
+      "published_at": "2026-09-11T03:34:38+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/cdab8ed0-f505-46a6-81e2-fc84fd5bc906/20260903T221215/cdab8ed0-f505-46a6-81e2-fc84fd5bc906_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/30aa5a47-41b6-4970-8b1a-1f0e121274de/20260911T033049/30aa5a47-41b6-4970-8b1a-1f0e121274de_750x422.jpg",
         "alt": ""
       },
-      "uid": "a5e33b6c-8119-4cd8-9e13-ce924bb8beb5",
-      "description": "CPS Energy says it has restored power to the over 250,000 customers affected by Friday's severe storms in San Antonio.",
+      "uid": "39fcdbef-b3eb-45a7-89da-1945e9385349",
+      "description": "San Antonio leaders approved extending the Midtown TIRZ to 2060, though Councilman Edward Mungia led a change that gives leaders flexibility in sunsetting it early.",
       "questions": [
-        "Did the storms last week knock out power at your house?",
-        "How long did the power stay out in your neighborhood?"
+        "Have you been following the plans for the new Spurs arena?",
+        "What are people around San Antonio saying about what the arena would mean for the Midtown area?"
       ],
       "thread": [
         {
-          "title": "Resources available for San Antonio residents still without power after storms",
+          "title": "On eve of Midtown TIRZ vote, Mayor Jones underscores opposition to 19-year extension",
           "summary": "",
           "source": "KENS 5",
-          "topic": "weather-hazard",
+          "topic": "government",
           "topics_secondary": [],
-          "url": "https://www.kens5.com/article/news/local/resources-available-for-san-antonio-residents-still-without-power-after-storms/273-af8778fe-7d71-406b-9a49-9ee50e6847b0",
-          "published_at": "2026-08-30T23:31:18+00:00",
+          "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-city-council-midtown-tirz-spurs-arena-vote-mayor-jones/273-5716cf61-b021-4d21-a84b-46a6f4b06555",
+          "published_at": "2026-09-10T03:35:30+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/c95b86a7-a87d-4f55-a71c-ae5d6530a897/20250301T060231/c95b86a7-a87d-4f55-a71c-ae5d6530a897_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KENS/images/bc04d964-8f3d-4f19-872e-50165794e34a/20260910T025348/bc04d964-8f3d-4f19-872e-50165794e34a_750x422.jpg",
             "alt": ""
           },
-          "uid": "9ffbb25f-e1e5-461e-9341-305a892df556",
-          "description": "The city plans to operate six resilience hubs until noon on Monday, while the San Antonio Food Bank plans to host three food distribution events."
+          "uid": "5884903c-85f9-40c4-adce-cd0fea63297c",
+          "description": "City Council will vote on extending the Midtown TIRZ to 2060, essentially foregoing property tax dollars in that area in order for specific projects to be funded."
         },
         {
-          "title": "CPS Energy expects power restoration to finish by Tuesday night; fewer than 2,000 customers without power days after San Antonio storms",
+          "title": "City Council approves $60 million purchase of land for new Spurs arena and OKs Midtown TIRZ extension—with a catch",
           "summary": "",
           "source": "KENS 5",
-          "topic": "weather-hazard",
-          "topics_secondary": [],
-          "url": "https://www.kens5.com/article/news/local/san-antonio-power-outages-cps-energy-storm-recovery-debris-pickup-texas/273-8d59d37d-c1e2-4d57-bacb-d53dfccdc8be",
-          "published_at": "2026-08-31T23:30:40+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/e1b9ef48-f52b-40ad-9c50-74f9a9d6f485/20260831T174346/e1b9ef48-f52b-40ad-9c50-74f9a9d6f485_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "e5e8b85b-b99a-486e-8d47-5eedb905fb09",
-          "description": "Officials said restoration efforts will continue Monday and Tuesday amid ongoing recovery from Friday storms that knocked out power for more than 100,000."
-        },
-        {
-          "title": "Number of CPS Energy customers without power drops to the hundreds days after storms tear through San Antonio",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "weather-hazard",
-          "topics_secondary": [],
-          "url": "https://www.kens5.com/article/news/local/number-of-cps-energy-customers-without-power-drops-to-the-hundreds-days-after-storms-tear-through-san-antonio/273-1fa74fb5-b032-49b5-90bf-ee5c3da1dfe3",
-          "published_at": "2026-09-01T03:37:16+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/307e1b66-6d00-4930-adca-b4ed0c3c782f/20260901T032409/307e1b66-6d00-4930-adca-b4ed0c3c782f_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "dfbc0527-08ac-42e0-9480-c1b8202f06d3",
-          "description": "Temperatures inside a family's home on the southwest side have sat in the low 90s."
-        },
-        {
-          "title": "CPS Energy wraps up days-long power restoration efforts after severe weather in San Antonio",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "weather-hazard",
+          "topic": "development-projects",
           "topics_secondary": [
-            "energy-utilities"
+            "government"
           ],
-          "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-cps-energy-update-storm-aftermath-coverage-severe-weather-cleanup-power-outages-restoration-september-2026/273-b211af9c-91c2-4d9c-b08d-9c39383dcf33",
-          "published_at": "2026-09-03T22:26:08+00:00",
+          "url": "https://www.kens5.com/article/news/local/san-antonio-government/spurs-arena-land-purchase-san-antonio-city-council-midtown-tirz/273-76e00b81-792a-4bfd-973f-142b863ae28e",
+          "published_at": "2026-09-11T03:34:38+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/cdab8ed0-f505-46a6-81e2-fc84fd5bc906/20260903T221215/cdab8ed0-f505-46a6-81e2-fc84fd5bc906_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KENS/images/30aa5a47-41b6-4970-8b1a-1f0e121274de/20260911T033049/30aa5a47-41b6-4970-8b1a-1f0e121274de_750x422.jpg",
             "alt": ""
           },
-          "uid": "a5e33b6c-8119-4cd8-9e13-ce924bb8beb5",
-          "description": "CPS Energy says it has restored power to the over 250,000 customers affected by Friday's severe storms in San Antonio."
+          "uid": "39fcdbef-b3eb-45a7-89da-1945e9385349",
+          "description": "San Antonio leaders approved extending the Midtown TIRZ to 2060, though Councilman Edward Mungia led a change that gives leaders flexibility in sunsetting it early."
         }
       ]
     },
     {
-      "title": "Burnout operation underway in Atascosa County as firefighters battle 300-acre River Bluff Fire",
+      "title": "Train horns return to some San Antonio neighborhoods after quiet zones suspended",
       "summary": "",
       "source": "KENS 5",
-      "topic": "weather-hazard",
+      "topic": "transportation",
       "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/texas/atascosa-county-lytle-rossville-texas-river-bluff-wild-fire-300-acres-southwest-san-antonio-latest-august-2026/273-26239b4e-c5e6-4186-aa81-02a60349b555",
-      "published_at": "2026-09-01T20:10:40+00:00",
+      "url": "https://www.kens5.com/article/news/community/train-horns-quiet-zones-alta-vista-railroad-crossings-haven-brady/273-6df9e928-4df1-44a1-9bf6-92a89afd9ee0",
+      "published_at": "2026-09-09T11:50:42+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/d3b83e16-fe77-4bd1-90f5-e304933e932d/20260901T194948/d3b83e16-fe77-4bd1-90f5-e304933e932d_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/b66d9cde-cf49-483d-bd1f-fba238c9c6f5/20260909T114618/b66d9cde-cf49-483d-bd1f-fba238c9c6f5_750x422.jpg",
         "alt": ""
       },
-      "uid": "3d881077-b34a-40c0-8364-4ec32c4475e3",
-      "description": "Firefighters are conducting a burnout operation to contain the 300-acre River Bluff Fire southwest of San Antonio, according to officials.",
+      "uid": "37e5d608-89b4-481d-85e0-9e44f312aaab",
+      "description": "The city is working on dozens of railroad crossings after several quiet zones were suspended, meaning residents could hear more train horns in the coming months.",
       "questions": [
-        "Is the River Bluff Fire close enough to affect where you are?",
-        "Has the smoke been noticeable in your part of the area?"
-      ]
-    }
-  ],
-  "conversation_starters": [
-    {
-      "title": "Karol G draws nearly 50K San Antonio fans to the Alamodome, setting new venue attendance record",
-      "summary": "Karol G made history at the Alamodome, San Antonio's downtown domed stadium, as nearly 50,000 fans packed the venue for her TropiTour, the largest crowd ever for a solo female headliner.",
-      "source": "KENS 5",
-      "topic": "celebrity-entertainment",
-      "topics_secondary": [
-        "culture-events"
-      ],
-      "url": "https://www.kens5.com/article/entertainment/music/san-antonio-texas-satx-karol-g-tropitour-concert-alamodome-history-highest-attended-solo-female-headliner-becky-g-september-2026/273-1936464a-663a-4cc6-b305-0c3673781d64",
-      "published_at": "2026-09-03T20:29:06+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/bf0225e6-c84c-4928-bbed-e68f476b087a/20260903T195809/bf0225e6-c84c-4928-bbed-e68f476b087a_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "3c6f8d40-4cbf-41a5-afb9-3073e752566a",
-      "description": "Karol G made Alamodome history Wednesday night as nearly 50,000 fans packed the venue for her TropiTour, the largest crowd ever for a solo female headliner.",
-      "questions": [
-        "Did you hear about the record crowd at the Alamodome for the Karol G show?",
-        "Do you ever catch concerts at the Alamodome?"
+        "Can you hear the train horns from your neighborhood?",
+        "Have the quiet zones been a topic around San Antonio?"
       ]
     },
     {
-      "title": "San Antonio couple wins Food Network's debut season of 'Pitmasters'",
-      "summary": "Esaul and Grecia Ramos, owners of 2M Smokehouse, a San Antonio barbecue restaurant, took home the trophy and a $30,000 prize.",
+      "title": "City waives storm debris fees at Bitters Brush Recycling Center through Labor Day",
+      "summary": "",
       "source": "KENS 5",
-      "topic": "food-dining",
-      "topics_secondary": [
-        "human-interest",
-        "celebrity-entertainment"
-      ],
-      "url": "https://www.kens5.com/article/life/food/2msmokehouse-pitmasters-food-network-esaul-ramos-grecia-barbecue-champions-30000-brisket-southeast-side-san-antonio/273-d1d3722d-a8ab-49fa-b8cd-f6c9b0ae6028",
-      "published_at": "2026-09-02T13:11:14+00:00",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/community/san-antonio-waives-fees-bitters-brush-recycling-center-labor-day-texas/273-418d83f2-4623-4fae-902c-350802a71bb3",
+      "published_at": "2026-09-07T22:13:22+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/a7b251ea-ccfb-4637-be80-8645774085fd/20260902T130305/a7b251ea-ccfb-4637-be80-8645774085fd_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/b23d2aaf-2c35-4415-8148-eb9ea5b18ed8/20260907T215123/b23d2aaf-2c35-4415-8148-eb9ea5b18ed8_750x422.jpg",
         "alt": ""
       },
-      "uid": "b2f633df-2a8a-4d69-abbd-54b936b629d8",
-      "description": "2M Smokehouse owners Esaul and Grecia Ramos took home the trophy and a $30,000 prize.",
+      "uid": "276eb5d0-e131-44a4-9bba-fc27b8f53f4b",
+      "description": "Storm-hit residents rush to a city center waiving fees for storm debris drop-offs through Labor Day, providing a win-win for cleanup and free mulch opportunities.",
       "questions": [
-        "Did you follow 2M Smokehouse on the Food Network competition?",
-        "What is your go-to barbecue place in San Antonio?"
+        "Did the storms leave much cleanup around your place?",
+        "Have you had to haul off any storm debris?"
       ]
     },
     {
-      "title": "'Best of the Wurst' | Beloved Wurstfest returns for 65th year in New Braunfels; Tickets now on sale",
-      "summary": "Tickets for the 65th Wurstfest in New Braunfels, a small city about 30 miles northeast of San Antonio, go on sale Tuesday; the festival celebrates German culture with music, food, and charity, promising fun for all ages.",
+      "title": "Brick Convention is coming to San Antonio for the first time with massive LEGO creations",
+      "summary": "",
       "source": "KENS 5",
       "topic": "culture-events",
       "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/best-of-the-wurst-beloved-wurstfest-returns-for-65th-year-in-new-braunfels-tickets-now-on-sale/273-f014b041-e435-414e-bced-2663c564a5a8",
-      "published_at": "2026-09-01T18:08:46+00:00",
+      "url": "https://www.kens5.com/article/entertainment/events/brick-convention-is-coming-to-san-antonio-for-the-first-time-with-massive-lego-creations/273-3fa883e7-14bd-44b8-919e-c2d8660ad69b",
+      "published_at": "2026-09-10T12:56:32+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/b5398c2c-36b4-4c9d-bbc3-72f154078686/b5398c2c-36b4-4c9d-bbc3-72f154078686_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/1f2fc828-f693-4c76-a175-0086604460a6/20260910T120647/1f2fc828-f693-4c76-a175-0086604460a6_750x422.jpg",
         "alt": ""
       },
-      "uid": "f0d67c5f-c1db-4ebc-9a46-a3863101d020",
-      "description": "Tickets for the 65th Wurstfest in New Braunfels, a festival celebrating German culture with music, food, and charity, go on sale Tuesday, promising fun for all ages.",
+      "uid": "894ead78-dba2-4e40-887f-aa1d9c773160",
+      "description": "The two-day event will feature LEGO cities, Star Wars scenes, hands-on building activities and a massive castle made with more than 100,000 bricks.",
       "questions": [
-        "Do you make it out to Wurstfest most years?",
-        "Is Wurstfest something the whole family goes to, or more of a friends trip?"
+        "Have you heard about the Brick Convention coming to San Antonio?",
+        "Does anyone in your family build with LEGO?"
       ]
     },
     {
-      "title": "San Antonio’s Main Plaza set for major renovation, including new stage and pavilion",
-      "summary": "Main Plaza, the historic square in downtown San Antonio, is set for a multimillion dollar transformation to enhance accessibility and community events.",
+      "title": "Brooks, San Antonio River Authority formalize plans for 243-acre 'mega-site' in south Bexar County",
+      "summary": "The land sits just south of Loop 410, the highway that rings the middle of San Antonio, off Southton Road and is about 1.7 miles from the existing Brooks campus, a former Air Force base on the city's south side that has been redeveloped into a business and housing district.",
       "source": "KENS 5",
       "topic": "development-projects",
       "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/community/san-antonio-main-plaza-major-renovation-stage-pavilion/273-5cac154f-7bd7-4515-a91f-4cf5ea33fde5",
-      "published_at": "2026-09-03T03:23:20+00:00",
+      "url": "https://www.kens5.com/article/news/local/brooks-san-antonio-river-authority-formalize-plans-for-243-acre-mega-site-in-south-bexar-county/273-1759bfbc-6c3e-4bf9-932b-f43bae57df9e",
+      "published_at": "2026-09-10T02:32:48+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/a861be4c-f507-43d0-8c17-8e35d15c47fd/20260903T032249/a861be4c-f507-43d0-8c17-8e35d15c47fd_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/b6bbfb7e-bcb5-47ae-893a-3052eee3258d/20260910T023119/b6bbfb7e-bcb5-47ae-893a-3052eee3258d_750x422.jpg",
         "alt": ""
       },
-      "uid": "b6d8f769-61b5-4ee0-a9cb-f5178b192d76",
-      "description": "San Antonio's Main Plaza is set for a multimillion dollar transformation to enhance accessibility and community events.",
+      "uid": "68f48a11-c2ed-410a-80b6-ce519129ed34",
+      "description": "The land sits just south of Loop 410 off Southton Road and is about 1.7 miles from the existing Brooks campus.",
       "questions": [
-        "Do you spend much time at Main Plaza downtown?",
-        "What do you make of the plans to rebuild Main Plaza?"
+        "Have you been out to the Brooks area lately?",
+        "What do people think about a project that big going in on the south side?"
       ]
     },
     {
-      "title": "From stray to hero: Lytle search-and-rescue dog Canyon named ASPCA Dog of the Year",
-      "summary": "",
+      "title": "Canyon Lake reaches 100% water level as families enjoy Labor Day weekend",
+      "summary": "Families spent Labor Day soaking up the final day of the holiday weekend at Canyon Lake, a reservoir about 40 miles northeast of San Antonio, taking advantage of the lake's high water levels.",
       "source": "KENS 5",
-      "topic": "animal-welfare",
-      "topics_secondary": [
-        "human-interest"
-      ],
-      "url": "https://www.kens5.com/article/life/animals/canyon-aspca-lytle-k9-rescue-floods-guadalupe-river-camp-mystic-fema-hero-kerrville-hunt-texas-k9-hillcountry-canine-dog/273-64a5f6b8-e380-4465-9758-98020873a34a",
-      "published_at": "2026-09-03T18:42:55+00:00",
+      "topic": "drought-water",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/community/canyon-lake-water-level-labor-day-weekend-texas/273-23460954-f49b-4884-bd5d-880f19cc19da",
+      "published_at": "2026-09-07T21:16:16+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c4a4de0b-2135-470c-ad9f-eca677c1ffca/20260903T180956/c4a4de0b-2135-470c-ad9f-eca677c1ffca_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/f7ca500c-a1fd-41b5-91de-a6010018df2b/20260907T211346/f7ca500c-a1fd-41b5-91de-a6010018df2b_750x422.jpg",
         "alt": ""
       },
-      "uid": "d5b46692-571b-4656-8287-b706bfb5aabc",
-      "description": "Canyon went from a shelter dog to a lifesaving search-and-rescue K9 who spent more than 90 days searching after the 2025 Texas floods.",
+      "uid": "f6dd71b9-ca82-42f1-ac59-0ca01089331b",
+      "description": "Families spent Labor Day soaking up the final day of the holiday weekend at Canyon Lake, taking advantage of the lake’s high water levels.",
       "questions": [
-        "Did you see that a search-and-rescue dog from Lytle was named ASPCA Dog of the Year?",
-        "Do you have a dog at home?"
+        "Do you get out to Canyon Lake much?",
+        "Is Canyon Lake a good spot for a day out?"
       ]
     },
     {
-      "title": "OLLU volunteers help west-side residents clean up debris after severe storms",
-      "summary": "Martin Crisantes, 86, was about to hire a company to help with removing all the broken branches in his backyard but then he got a call from Our Lady of the Lake University.",
+      "title": "VIA to offer Park & Ride services to these five Alamodome events in September",
+      "summary": "The services will be available at the Crossroads Park & Ride, northwest of downtown San Antonio, and at the Walmart at Brooks, on the city's south side.",
       "source": "KENS 5",
-      "topic": "weather-hazard",
-      "topics_secondary": [
-        "human-interest"
-      ],
-      "url": "https://www.kens5.com/article/news/community/ollu-san-antonio-volunteers-west-side-clean-up-debris-severe-storms/273-cbb498ba-8458-4035-849f-b93089e2fdab",
-      "published_at": "2026-09-03T03:14:13+00:00",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/via-to-offer-park-ride-services-to-these-five-alamodome-events-in-september/273-f43c0a55-fd79-44c0-a34b-4b2ddda86d3b",
+      "published_at": "2026-09-10T01:12:18+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/dd979e4a-075a-43fd-97ff-6ebd72d33a08/20260903T031343/dd979e4a-075a-43fd-97ff-6ebd72d33a08_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/be3a90c1-bd0d-4269-b735-d8c5d095b2aa/20241105T124811/be3a90c1-bd0d-4269-b735-d8c5d095b2aa_750x422.jpg",
         "alt": ""
       },
-      "uid": "b8c7b857-33a8-4d87-8004-0bdf73fd5e29",
-      "description": "Martin Crisantes, 86, was about to hire a company to help with removing all the broken branches in his backyard but then he got a call from the university.",
+      "uid": "92c9c721-70e0-4fc6-902b-3923030ddf97",
+      "description": "The services will be available at the Crossroads Park & Ride and Walmart at Brooks.",
       "questions": [
-        "Did your street get much storm debris to clean up?",
-        "Have you seen the university volunteers helping out on the west side?"
-      ]
-    },
-    {
-      "title": "Project Cool running low on box fans as San Antonio heat continues",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "human-interest",
-      "topics_secondary": [
-        "weather-hazard"
-      ],
-      "url": "https://www.kens5.com/article/news/local/outreach/kens-cares/project-cool-box-fans-united-way-heat-seniors-donations-safd-cooling-bexar-county-211/273-333db062-f66f-4d0c-b066-571531a4246e",
-      "published_at": "2026-09-01T17:14:08+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/cefc9701-99c7-493e-a774-08236ad47de3/20260901T170546/cefc9701-99c7-493e-a774-08236ad47de3_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "66881cbb-44ed-409d-b8cd-c25695b6a217",
-      "description": "United Way is asking San Antonio residents to donate new box fans as demand from seniors and people with disabilities outpaces supply.",
-      "questions": [
-        "Have you heard about the Project Cool fan drive this year?",
-        "Is the heat still as rough as it has been?"
+        "Do you ever take the Park & Ride to events at the Alamodome?",
+        "Anything coming up at the Alamodome worth going to?"
       ]
     }
   ],
   "you_should_know": [
     {
-      "title": "'Lay down and enjoy it': Balcones Heights mayor repeats rape remark, then laughs in newly obtained audio",
-      "summary": "KENS 5 obtained audio from a September 2025 staff meeting in Balcones Heights, a small city surrounded by San Antonio, after a councilmember referenced the comment at the Aug. 24, 2026, council meeting.",
+      "title": "DFPS confirmed neglectful supervision months before 2 children were found dead in burned car, report shows",
+      "summary": "The agency assessed Adrian and Aleeza Vidal as safe and rated the family's risk \"moderate.\" DFPS, the Texas Department of Family and Protective Services, received another report two days before their deaths.",
       "source": "KENS 5",
       "topic": "government",
       "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/politics/balcones-heights-mayorrape-remark-audio-release-texas/273-a7d532a4-4303-4b5c-ab23-9619dec76ea0",
-      "published_at": "2026-09-03T21:41:10+00:00",
+      "url": "https://www.kens5.com/article/news/crime/dfps-confirmed-neglectful-supervision-months-before-2-children-were-found-dead-in-burned-car-report-shows/273-b4a51104-4422-4441-bfd8-da9fdf143c7d",
+      "published_at": "2026-09-10T03:17:54+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/a8a7d86f-3810-40b0-8fc6-3c92796b5547/20260324T031831/a8a7d86f-3810-40b0-8fc6-3c92796b5547_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/de46879f-6071-402c-9f84-5965ed20433b/20260910T030704/de46879f-6071-402c-9f84-5965ed20433b_750x422.jpg",
         "alt": ""
       },
-      "uid": "ae1bb6c7-8c9c-41a4-b02f-dfd28f9b7062",
-      "description": "KENS 5 obtained audio from a September 2025 staff meeting after a councilmember referenced the comment at the Aug. 24, 2026, council meeting."
+      "uid": "0e9b9c94-e1ad-42fb-8ce4-165c4528a06f",
+      "description": "The agency assessed Adrian and Aleeza Vidal as safe and rated the family’s risk “moderate.” DFPS received another report two days before their deaths."
     },
     {
-      "title": "DHS signs $17.3M contract to convert east-side San Antonio warehouse into ICE facility, online records say",
+      "title": "SA, Austin officials say Abbott’s proposal to disband electric companies won’t lower costs",
       "summary": "",
       "source": "KENS 5",
-      "topic": "immigration-enforcement",
+      "topic": "energy-utilities",
       "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/dhs-signs-173m-contract-convert-east-side-san-antonio-warehouse-ice-facility-texas-detention-center/273-5a8d5525-85b4-4c44-aa78-b21d5510b46e",
-      "published_at": "2026-09-02T03:19:30+00:00",
+      "url": "https://www.kens5.com/article/news/local/texas/sa-austin-officials-say-abbotts-proposal-to-disband-electric-companies-wont-lower-costs/273-1ccfe60a-432d-499e-afee-4459f71ab2ed",
+      "published_at": "2026-09-08T18:42:00+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/a7a64f86-cfdc-445d-bdf2-36a5481cacdb/20260825T184552/a7a64f86-cfdc-445d-bdf2-36a5481cacdb_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/307e1b66-6d00-4930-adca-b4ed0c3c782f/20260901T032409/307e1b66-6d00-4930-adca-b4ed0c3c782f_750x422.jpg",
         "alt": ""
       },
-      "uid": "7a568f4e-38fd-4e7b-a689-39272a541948",
-      "description": "The Department of Homeland Security has signed a $17.3 million contract with GardaWorld to convert a San Antonio warehouse into an ICE facility, online records say."
-    },
-    {
-      "title": "Man arrested after allegedly threatening to shoot up San Antonio elementary school in AI chats, affidavit says",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "violent-crime",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/crime/neisd-man-threatens-shoot-school-ai-chat-serna-elementary-neisd/273-f44b44c5-5ea3-4d9c-b50f-9e87d2bcc6cb",
-      "published_at": "2026-09-01T03:00:21+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/aa8aff47-70d3-4768-928b-f9c785fa322f/20260901T024736/aa8aff47-70d3-4768-928b-f9c785fa322f_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "60a13d00-fcf4-46a4-a0d5-e564e753d9c8",
-      "description": "One quote from the chat included: \"I'm getting a gun as soon as I can, and when Serna Elementary starts, I'm just gonna walk in there and start shooting up kids.\""
+      "uid": "42598600-7abe-4b51-b62b-d9cc5d6db050",
+      "description": "On the campaign trail, the governor said dismantling city-owned utilities will save customers money by introducing competition."
     },
     {
       "title": "San Antonio launches pilot program targeting recurring homeless encampments",
@@ -319,143 +224,25 @@
       },
       "uid": "0731e2da-f7b1-4c53-96df-9469992017cc",
       "description": "The city plans weeks of intensive outreach before clearing selected camps. Right now, there are 33 encampments where the city has been going to every two weeks."
-    },
-    {
-      "title": "Salame to be appointed San Antonio police chief, city leaders confirm",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "government",
-      "topics_secondary": [
-        "policing"
-      ],
-      "url": "https://www.kens5.com/article/news/local/law-enforcement/san-antonio-texas-satx-new-police-chief-jesse-salame-sapd-retirment-william-mcmanuis-city-council-manager-erik-walsh-announcment-september-2026/273-0c7b5a90-65ec-4312-a5c1-3c87868853ca",
-      "published_at": "2026-09-02T15:05:35+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/a37966dd-c99f-4ffd-9265-f1bc970a1651/20260708T210614/a37966dd-c99f-4ffd-9265-f1bc970a1651_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "1bdac96c-d993-4370-9066-cb1146b6f391",
-      "description": "San Antonio City Manager Erik Walsh is set to announce a new police chief on Wednesday morning, filling the position after the retirement of Chief McManus."
-    },
-    {
-      "title": "Trump approves federal disaster aid for Texas counties impacted by devastating July floods",
-      "summary": "Federal help for Texas communities recovering from the summer's floods and storms arrived in two steps. First President Trump announced $50 million for severe weather recovery, with communities still waiting on details of how it would be distributed. Then he approved a major disaster declaration for the Texas counties hit by the July floods, extending broader federal support to the affected areas.",
-      "source": "KENS 5",
-      "topic": "government",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/state/texas-news/texas-flood/texas-hill-country-federal-aid-trump-approves-disaster-declaration-texas-counties-impacted-july-floods-2026/273-4ec333c3-880e-480e-8629-80a32c15aeab",
-      "published_at": "2026-09-04T13:21:36+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/759ded38-c812-4b8c-8ed6-f0030f079d0b/20260904T132053/759ded38-c812-4b8c-8ed6-f0030f079d0b_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "ffeba48a-6f6c-4ee0-bc04-06d7d6e6bb24",
-      "description": "Texas communities hit by severe floods gain extended federal support after President Trump approved a major disaster declaration.",
-      "thread": [
-        {
-          "title": "Trump announces $50 million for Texas severe weather recovery as communities await details",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "weather-hazard",
-          "topics_secondary": [
-            "government"
-          ],
-          "url": "https://www.kens5.com/article/weather/severe-weather/trump-texas-recovery-kerrville-flooding-storms-funding-hill-country-abbott-edouard/273-f1c4e7b9-d969-45b3-adbf-138ec8bd6695",
-          "published_at": "2026-09-03T12:01:34+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/dd74f184-6dfa-41fa-9aad-2816eafea8e0/20260903T120012/dd74f184-6dfa-41fa-9aad-2816eafea8e0_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "32044713-05fc-4bd5-8f02-6076ff14681e",
-          "description": "The federal funding comes as communities across Texas recover from devastating floods, storms and widespread damage this summer."
-        },
-        {
-          "title": "Trump approves federal disaster aid for Texas counties impacted by devastating July floods",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "government",
-          "topics_secondary": [],
-          "url": "https://www.kens5.com/article/news/state/texas-news/texas-flood/texas-hill-country-federal-aid-trump-approves-disaster-declaration-texas-counties-impacted-july-floods-2026/273-4ec333c3-880e-480e-8629-80a32c15aeab",
-          "published_at": "2026-09-04T13:21:36+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/759ded38-c812-4b8c-8ed6-f0030f079d0b/20260904T132053/759ded38-c812-4b8c-8ed6-f0030f079d0b_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "ffeba48a-6f6c-4ee0-bc04-06d7d6e6bb24",
-          "description": "Texas communities hit by severe floods gain extended federal support after President Trump approved a major disaster declaration."
-        }
-      ]
-    },
-    {
-      "title": "SAPD release body cam video of man shot, killed after police say he ignored multiple warnings to drop gun",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "policing",
-      "topics_secondary": [
-        "violent-crime"
-      ],
-      "url": "https://www.kens5.com/article/news/crime/san-antonio-police-body-cam-video-man-deadly-shooting-aurora-ave/273-44508f3f-a82e-47f3-b3e3-fbd5620dde45",
-      "published_at": "2026-09-02T20:46:38+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/a667e8f0-3d07-4b4c-9648-cd233f198295/20260902T203954/a667e8f0-3d07-4b4c-9648-cd233f198295_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "a43de53a-dba9-4fa0-86cd-fe057cb56835",
-      "description": "Police said multiple 911 calls were made by neighbors in the past month, though the exact number was unclear."
-    },
-    {
-      "title": "'ICE is going to take him:' Mother says her son was wrongly accused of threatening ICE officers in San Antonio",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "immigration-enforcement",
-      "topics_secondary": [
-        "violent-crime"
-      ],
-      "url": "https://www.kens5.com/article/news/crime/ice-mother-son-wrongly-accused-hreatening-ice-officers-san-antonio/273-1bfa8e71-385a-4959-868d-ba1acc375607",
-      "published_at": "2026-09-02T03:43:38+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e1ad63ed-8b6a-4e91-9a1f-a248fbeb0774/20260902T023325/e1ad63ed-8b6a-4e91-9a1f-a248fbeb0774_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "e5a09f67-1cd2-408d-bf3a-fc6fadc13d1c",
-      "description": "Josue David Pineda Munoz remains in the Bexar County jail, where he faces a charge of making a terroristic threat."
-    },
-    {
-      "title": "Feds ordered to extend pause on Big Bend border construction, state senator says",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "civil-litigation",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/texas/feds-ordered-to-extend-halt-on-big-bend-border-construction-texas-senator-says/273-e9554ecf-081c-4549-ada1-c0db94ce7183",
-      "published_at": "2026-09-01T03:53:18+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/1e75c3eb-7793-4183-b16e-22d991310dd7/20260901T035207/1e75c3eb-7793-4183-b16e-22d991310dd7_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "ad1c6b74-363f-4684-a3f8-35b6421bb790",
-      "description": "The pause, previously in place until Sept. 15, was extended by 15 days, Texas State Senator Roland Gutierrez said Monday afternoon."
     }
   ],
   "sports": [
     {
-      "team": "UIW",
+      "team": "UTSA",
       "scores": [
-        "receiver sues NCAA over suspension"
+        "at Texas State for I-35 rivalry"
       ]
     },
     {
       "team": "Spurs",
       "scores": [
-        "announcer staying on play-by-play",
-        "streaming costs rise under new DAZN deal",
-        "fan meet-and-greet with Champagnie",
-        "Austin game tickets on sale Thursday"
+        "open scrimmage in October"
       ]
     },
     {
-      "team": "UTSA",
+      "team": "UIW",
       "scores": [
-        "hosts UTRGV in season opener"
+        "receiver sues NCAA over suspension"
       ]
     }
   ]

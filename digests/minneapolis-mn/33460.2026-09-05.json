@@ -4,7 +4,28 @@
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "date": "2026-09-05",
   "are_you_ok": [],
-  "conversation_starters": [],
+  "conversation_starters": [
+    {
+      "title": "African fashion week is set to return to the Twin Cities",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/african-fashion-week-is-set-to-return-to-the-twin-cities/",
+      "published_at": "2026-09-05T15:46:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/05/cb41db31-4446-4beb-b77a-d4bd0f1ea744/thumbnail/1024x576/110300e2fe1bc6475ce2084ce4579e2f/a9a12e216744e7dddf1a3351ed0af87a.jpg",
+        "alt": ""
+      },
+      "uid": "a32adbb3-911f-4b99-b23c-f1f596be7f32",
+      "questions": [
+        "Are you planning to check out African Fashion Week?",
+        "Have you been to African Fashion Week in past years?"
+      ],
+      "description": "African Fashion Week will return to the Twin Cities Sept. 12. Here's a sneak peek at what attendees can see.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
   "sports": [],
   "weather_alert": [],
   "you_should_know": [

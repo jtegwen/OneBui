@@ -79,6 +79,23 @@
           "type": "array",
           "description": "Weekly only: the contributing daily Articles behind a clustered multi-day item.",
           "items": { "$ref": "#/$defs/Article" }
+        },
+        "location": {
+          "description": "The place this item's copy explains, resolved by enrich (design D4). Absent when the item explains no reference the reference data resolves.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["city", "state", "lat", "lon", "kind", "population", "character", "distance_mi", "direction"],
+          "properties": {
+            "city": { "type": "string" },
+            "state": { "type": "string" },
+            "lat": { "type": "number" },
+            "lon": { "type": "number" },
+            "kind": { "type": "string" },
+            "population": { "type": ["integer", "null"] },
+            "character": { "type": ["string", "null"] },
+            "distance_mi": { "type": "integer" },
+            "direction": { "type": "string" }
+          }
         }
       }
     },

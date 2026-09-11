@@ -1,0 +1,85 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-09-10",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Brick Convention is coming to San Antonio for the first time with massive LEGO creations",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/entertainment/events/brick-convention-is-coming-to-san-antonio-for-the-first-time-with-massive-lego-creations/273-3fa883e7-14bd-44b8-919e-c2d8660ad69b",
+      "published_at": "2026-09-10T12:56:32+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/1f2fc828-f693-4c76-a175-0086604460a6/20260910T120647/1f2fc828-f693-4c76-a175-0086604460a6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "894ead78-dba2-4e40-887f-aa1d9c773160",
+      "questions": [
+        "Have you heard about the Brick Convention coming to San Antonio?",
+        "Does anyone in your family build with LEGO?"
+      ],
+      "description": "The two-day event will feature LEGO cities, Star Wars scenes, hands-on building activities and a massive castle made with more than 100,000 bricks."
+    },
+    {
+      "title": "Brooks, San Antonio River Authority formalize plans for 243-acre 'mega-site' in south Bexar County",
+      "summary": "The land sits just south of Loop 410, the highway that rings the middle of San Antonio, off Southton Road and is about 1.7 miles from the existing Brooks campus, a former Air Force base on the city's south side that has been redeveloped into a business and housing district.",
+      "source": "KENS 5",
+      "topic": "development-projects",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/brooks-san-antonio-river-authority-formalize-plans-for-243-acre-mega-site-in-south-bexar-county/273-1759bfbc-6c3e-4bf9-932b-f43bae57df9e",
+      "published_at": "2026-09-10T02:32:48+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b6bbfb7e-bcb5-47ae-893a-3052eee3258d/20260910T023119/b6bbfb7e-bcb5-47ae-893a-3052eee3258d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "68f48a11-c2ed-410a-80b6-ce519129ed34",
+      "questions": [
+        "Have you been out to the Brooks area lately?",
+        "What do people think about a project that big going in on the south side?"
+      ],
+      "description": "The land sits just south of Loop 410 off Southton Road and is about 1.7 miles from the existing Brooks campus."
+    },
+    {
+      "title": "VIA to offer Park & Ride services to these five Alamodome events in September",
+      "summary": "The services will be available at the Crossroads Park & Ride, northwest of downtown San Antonio, and at the Walmart at Brooks, on the city's south side.",
+      "source": "KENS 5",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/via-to-offer-park-ride-services-to-these-five-alamodome-events-in-september/273-f43c0a55-fd79-44c0-a34b-4b2ddda86d3b",
+      "published_at": "2026-09-10T01:12:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/be3a90c1-bd0d-4269-b735-d8c5d095b2aa/20241105T124811/be3a90c1-bd0d-4269-b735-d8c5d095b2aa_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "92c9c721-70e0-4fc6-902b-3923030ddf97",
+      "questions": [
+        "Do you ever take the Park & Ride to events at the Alamodome?",
+        "Anything coming up at the Alamodome worth going to?"
+      ],
+      "description": "The services will be available at the Crossroads Park & Ride and Walmart at Brooks."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "DFPS confirmed neglectful supervision months before 2 children were found dead in burned car, report shows",
+      "summary": "The agency assessed Adrian and Aleeza Vidal as safe and rated the family's risk \"moderate.\" DFPS, the Texas Department of Family and Protective Services, received another report two days before their deaths.",
+      "source": "KENS 5",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/crime/dfps-confirmed-neglectful-supervision-months-before-2-children-were-found-dead-in-burned-car-report-shows/273-b4a51104-4422-4441-bfd8-da9fdf143c7d",
+      "published_at": "2026-09-10T03:17:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/de46879f-6071-402c-9f84-5965ed20433b/20260910T030704/de46879f-6071-402c-9f84-5965ed20433b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0e9b9c94-e1ad-42fb-8ce4-165c4528a06f",
+      "description": "The agency assessed Adrian and Aleeza Vidal as safe and rated the family’s risk “moderate.” DFPS received another report two days before their deaths."
+    }
+  ]
+}

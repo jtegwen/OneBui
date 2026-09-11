@@ -1,0 +1,33 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-09-11",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "City Council approves $60 million purchase of land for new Spurs arena and OKs Midtown TIRZ extension—with a catch",
+      "summary": "San Antonio leaders approved extending the Midtown TIRZ, a tax increment reinvestment zone that sets aside growth in property tax dollars to pay for projects inside that area, to 2060, though Councilman Edward Mungia led a change that gives leaders flexibility in sunsetting it early.",
+      "source": "KENS 5",
+      "topic": "development-projects",
+      "topics_secondary": [
+        "government"
+      ],
+      "url": "https://www.kens5.com/article/news/local/san-antonio-government/spurs-arena-land-purchase-san-antonio-city-council-midtown-tirz/273-76e00b81-792a-4bfd-973f-142b863ae28e",
+      "published_at": "2026-09-11T03:34:38+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/30aa5a47-41b6-4970-8b1a-1f0e121274de/20260911T033049/30aa5a47-41b6-4970-8b1a-1f0e121274de_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "39fcdbef-b3eb-45a7-89da-1945e9385349",
+      "questions": [
+        "Have you been following the plans for the new Spurs arena?",
+        "What are people around San Antonio saying about what the arena would mean for the Midtown area?"
+      ],
+      "description": "San Antonio leaders approved extending the Midtown TIRZ to 2060, though Councilman Edward Mungia led a change that gives leaders flexibility in sunsetting it early."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": []
+}

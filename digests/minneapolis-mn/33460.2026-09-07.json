@@ -1,0 +1,141 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-09-07",
+  "are_you_ok": [
+    {
+      "title": "6 p.m. Minnesota forecast from Sept. 7, 2026 | NEXT Weather",
+      "summary": "Storms moving through Minnesota on Tuesday may produce flash flooding in parts of the state, according to Lisa Meadows, a meteorologist with NEXT Weather at WCCO, the CBS television station in Minneapolis.",
+      "source": "CBS Minnesota",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/6-p-m-minnesota-forecast-from-sept-7-2026-next-weather/",
+      "published_at": "2026-09-07T23:42:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/07/a9bb23c5-ba5f-47f0-ad1d-a2b0ecf68a8d/thumbnail/1024x576/fdb1e1a05910fb9d1378c056ca12e86f/a0daeb1506bff5b641d7ee3298c50bc9.jpg",
+        "alt": ""
+      },
+      "uid": "fa2dbefd-fc42-4a32-a5a2-66756892302f",
+      "questions": [
+        "Did the storms cause any flooding near you?",
+        "Is everything alright at home after all the rain?"
+      ],
+      "description": "Storms moving through Minnesota on Tuesday may produce flash flooding in parts of the state, according to NEXT Weather meteorologist Lisa Meadows.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "New Minnesota school bus safety laws begin this school year",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "transportation",
+      "topics_secondary": [
+        "education"
+      ],
+      "url": "https://www.fox9.com/news/new-minnesota-school-bus-safety-laws-begin-2026-school-year",
+      "published_at": "2026-09-07T19:17:40+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2023/02/School-bus-sign-sized.jpg",
+        "alt": ""
+      },
+      "uid": "5dc06221-ecfe-407f-96e4-3803f6f17f46",
+      "questions": [
+        "Did you know about the new 20-foot school bus stopping rule?",
+        "Do you drive past a lot of bus stops on your commute?"
+      ],
+      "description": "A new law requires drivers to stop at least 20 feet from a bus when red lights are flashing, even if the stop arm isn't fully extended."
+    },
+    {
+      "title": "Filmmakers say Jessie Diggins' life was at risk during eating disorder relapse shown in \"Threshold\"",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/filmmakers-say-jessie-diggins-life-was-at-risk-during-eating-disorder-relapse-shown-in-threshold/",
+      "published_at": "2026-09-07T22:09:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/07/4f6ccb75-d926-4731-8c76-6d5b7ca77686/thumbnail/1024x576/3ebcf16757f79fad33d58769c7f3868d/94d555f1edc3e535694750ee9a47e272.jpg",
+        "alt": ""
+      },
+      "uid": "eb7cc326-466f-4ec3-b9db-347de992d4a6",
+      "questions": [
+        "Have you seen the documentary about Jessie Diggins?",
+        "Do you follow cross-country skiing at all?"
+      ],
+      "description": "Filmmakers behind \"Threshold\" say Olympic skier Jessie Diggins was pushing limits far beyond what most people realized during a relapse captured on camera over her 2023–2024 season.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Here's what's contributing to the heat domes in the Twin Cities area",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "science",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/heat-islands-university-of-minnesota-research/",
+      "published_at": "2026-09-07T23:47:28+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/07/8200bedd-ec30-43de-a341-ad553dee7a10/thumbnail/1024x576/2f9618b1bcb8d15d19f4c92e394e2984/gettyimages-2224941931.jpg",
+        "alt": ""
+      },
+      "uid": "bcb6cc36-b869-4c71-8ec1-280b9f996b64",
+      "questions": [
+        "How did the heat this summer treat you?",
+        "Did you see the University of Minnesota is studying heat patterns in the Twin Cities?"
+      ],
+      "description": "Amid a long, hot summer, the University of Minnesota's Climate Adaption Center is gathering data about heat patterns in the Twin Cities.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Gophers",
+      "scores": [
+        "Tracy named Big Ten special teams player of week",
+        "host Mississippi State Saturday"
+      ]
+    },
+    {
+      "team": "Twins",
+      "scores": [
+        "White Sox 10, Twins 1"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Hockey gear costs soaring in Minnesota, 50% Canada tariffs threaten to push prices higher",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/hockey-gear-costs-soaring-minnesota-50-canada-tariffs-threaten-push-prices-higher",
+      "published_at": "2026-09-07T21:13:08+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2020/03/hockey-pucks-girls-u15.jpg",
+        "alt": ""
+      },
+      "uid": "9c7a58df-6314-4eb5-bda8-c27c0bbd6954",
+      "description": "Tariffs on Canada could make an already expensive sport even pricier for hockey families. For families with kids in hockey, the price of gear was already painful — and now it could get worse."
+    },
+    {
+      "title": "MN DOC: 57% fewer Minnesotans leaving prison and becoming homeless since 2021",
+      "summary": "As leaders in St. Paul, the capital city, just east of Minneapolis, struggle to clear the city's homeless encampments before winter, one state program working to prevent homelessness in the first place is seeing progress.",
+      "source": "FOX 9",
+      "topic": "policing",
+      "topics_secondary": [
+        "housing"
+      ],
+      "url": "https://www.fox9.com/news/mn-doc-57-fewer-minnesotans-leaving-prison-becoming-homeless-since-2021",
+      "published_at": "2026-09-07T23:42:27+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/image2026-09-07-17h58m19s831.jpg",
+        "alt": ""
+      },
+      "uid": "5a1c3797-3654-43fa-b56f-1215463b5add",
+      "description": "As St. Paul leaders struggle to clear the city’s homeless encampments before winter, one state program working to prevent homelessness in the first place is seeing progress."
+    }
+  ]
+}

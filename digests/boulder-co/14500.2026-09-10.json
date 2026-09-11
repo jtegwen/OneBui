@@ -1,0 +1,59 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-09-10",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Their son was killed by a sheriff’s deputy. Now they’re opening a Boulder County youth arts hub in his honor.",
+      "summary": "The new space in Lyons, a small town about 15 miles north of Boulder, honors Christian Glass, the young man killed by a sheriff's deputy, with a cafe, pottery studio and gathering place for young people ages 14 to 22.",
+      "source": "Boulder Reporting Lab",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://boulderreportinglab.org/2026/09/10/their-son-was-killed-by-a-sheriffs-deputy-now-theyre-opening-a-boulder-county-youth-arts-hub-in-his-honor/",
+      "published_at": "2026-09-10T17:52:22+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/IMG_7564-1-scaled.jpg?fit=1024%2C768&ssl=1",
+        "alt": ""
+      },
+      "uid": "1fd83596-4b78-4864-8862-f170e114c19a",
+      "questions": [
+        "Have you heard about the new youth arts space in Lyons?",
+        "Is there much for teenagers to do around Boulder County?"
+      ],
+      "description": "The new Lyons space honors Christian Glass with a cafe, pottery studio and gathering place for young people ages 14 to 22. The post Their son was killed by a sheriff’s deputy. Now they’re opening a Boulder County youth arts hub in his honor. appeared first on The Boulder",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Denver Water urges customers to lower indoor water use during cooler seasons",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/denver-water-customers-lower-indoor-water-cooler-seasons/",
+      "published_at": "2026-09-10T03:59:33+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/09/9bfe32f4-8b8d-4681-a15b-328823f62cad/thumbnail/1024x576/073273d6470ecb00eb1374bc1271bf62/greg-fisher-denevr-water.jpg",
+        "alt": ""
+      },
+      "uid": "666d341d-da19-4463-8114-06bb6362c5f2",
+      "questions": [
+        "Have the watering restrictions affected your yard?",
+        "Is there much talk locally about the drought rules?"
+      ],
+      "description": "There are only a few weeks left for Denver Water users to water their lawn or use spray irrigation due to drought restrictions.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "adds Devon Key to captains"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": []
+}

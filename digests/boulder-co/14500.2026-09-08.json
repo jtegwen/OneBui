@@ -1,0 +1,18 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-09-08",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "Nuggets",
+      "scores": [
+        "preseason opener at CU Events Center"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": []
+}

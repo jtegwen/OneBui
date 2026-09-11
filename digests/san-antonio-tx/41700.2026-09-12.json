@@ -1,0 +1,21 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-09-12",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [],
+  "weather_alert": [
+    {
+      "uid": "88153ac8-0bfc-5202-b6c2-af64e9449503",
+      "event": "Heat Advisory",
+      "area": "Atascosa, Bexar +3 more",
+      "severity": "Moderate",
+      "summary": "Temperatures up to 103 and heat index values up to 108 degrees are expected along the I-35 corridor, the interstate running northeast out of San Antonio, and the Coastal Plains. The advisory covers Bexar County, which is San Antonio itself, along with Atascosa, south of San Antonio, Wilson County to the southeast, Guadalupe County to the east, and Comal County to the northeast.",
+      "description": "Heat Advisory issued September 11 at 12:08PM CDT until September 12 at 7:00PM CDT by NWS Austin/San Antonio TX\n\n* WHAT...Temperatures up to 103 and heat index values up to 108\ndegrees expected.\n\n* WHERE...The I-35 corridor and Coastal Plains.\n\n* WHEN...From noon to 7 PM CDT Saturday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
+      "ends": "2026-09-12T19:00:00-05:00"
+    }
+  ],
+  "you_should_know": []
+}

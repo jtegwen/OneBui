@@ -1,0 +1,129 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-09-09",
+  "are_you_ok": [
+    {
+      "title": "Colorado woman hospitalized after recalled tabletop firepit malfunctions",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "product-recall",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/money/consumer/after-the-fire-survival-to-strength/73-ada760d9-7811-4cfc-95c5-5c336ecb30b2",
+      "published_at": "2026-09-09T23:49:42+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ad0a4722-c2d4-4d7b-b491-bbecd26e5d48/20260908T230403/ad0a4722-c2d4-4d7b-b491-bbecd26e5d48_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "493656a0-6488-4b8c-92d6-448c7b6a5423",
+      "questions": [
+        "Did you see the recall notice about the tabletop fire pits?",
+        "Do you have one of those fire pits at home?"
+      ],
+      "description": "Many tabletop fire pits have been recalled after several people were seriously burned. One of those people is Natalie Lowden."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Two Colorado wolves lethally removed after livestock losses",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/two-wolves-killed-after-livestock-losses/73-a48e1bfd-f92e-4046-a855-7d4bebc82d2f",
+      "published_at": "2026-09-09T04:36:11+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/bd31e439-504a-445d-b5ff-f0242c4bd8f7/20260614T041407/bd31e439-504a-445d-b5ff-f0242c4bd8f7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "bbbb4e2e-dcf3-42aa-b845-2ba3a0c8bf4b",
+      "questions": [
+        "Have you been following the wolf reintroduction program?",
+        "Does the wolf program come up much in conversation around there?"
+      ],
+      "description": "This brings the total number of wolves that have died under the agency's watch to 19 since the wolf relocation program started in December of 2023."
+    },
+    {
+      "title": "A once-thriving Black settlement on Colorado's plains prepares to welcome visitors again",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/dearfield-black-settlement-colorado-visitors/",
+      "published_at": "2026-09-09T01:29:37+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/08/b5adf9cb-0535-4c5f-abc5-e51e924fd894/thumbnail/1024x576/73be1e1509bfc4a1d9ba93a343cc5ff1/img-2267.jpg",
+        "alt": ""
+      },
+      "uid": "8afd7189-888d-4196-8bf0-562e741608b1",
+      "questions": [
+        "Have you ever visited the old settlement site out on the plains?",
+        "Do you take many trips east of Boulder onto the plains?"
+      ],
+      "description": "George Junne and Bob Brunswig have spent years working to preserve the site, which is owned by the Black American West Museum.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Bear euthanized after being found with trash blocking intestines",
+      "summary": "The sick bear had a stomach and upper intestine completely blocked by trash, which included entire plastic garbage bags and non-flushable wipes, said Colorado Parks and Wildlife, or CPW.",
+      "source": "9NEWS",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/life/animals/bear-euthanized-trash-block-upper-intestines-durango/73-3363a607-2213-478c-bf32-12e02362858c",
+      "published_at": "2026-09-09T21:53:37+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/bcefc2be-9239-4dfd-ad5a-03164060a742/bcefc2be-9239-4dfd-ad5a-03164060a742_750x422.jpeg",
+        "alt": ""
+      },
+      "uid": "9a8a2e8e-6734-49ec-b38f-c7b96d232e30",
+      "questions": [
+        "Do bears get into the trash where you live?",
+        "Did you see the story about the bear and the garbage?"
+      ],
+      "description": "The sick bear had its stomach and upper intestine completely blocked by trash, which included entire plastic garbage bags and non-flushable wipes, CPW said."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "new menu items at Empower Field"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Boulder Valley parents raise concerns, call for pause on district's plans to close schools",
+      "summary": "As the board of the Boulder Valley School District, the school district covering Boulder, decides whether to move forward with a proposal to close four schools, the community got a chance to weigh in.",
+      "source": "9NEWS",
+      "topic": "education",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/boulder-valley-parents-raise-concerns-districts-plans-close-schools/73-ae8894b2-d96b-4b3d-b65d-3f9de7f6b388",
+      "published_at": "2026-09-09T04:32:26+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d52c2ffb-fb57-4e04-b6cb-eeba54734d47/20260909T042124/d52c2ffb-fb57-4e04-b6cb-eeba54734d47_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "cbd86c5b-713d-4017-b6e8-c7bdbd784d3e",
+      "description": "As the Boulder Valley school board decides whether to move forward with a proposal to close four schools the community got their chance to weigh in."
+    },
+    {
+      "title": "Missy Woods apologizes in Colorado courtroom as she is sentenced to 10 years in prison",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/missy-woods-apologizes-in-colorado-courtroom-as-she-is-sentenced-to-10-years-in-prison/",
+      "published_at": "2026-09-09T02:59:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/09/d42b294f-f541-46af-a959-52c5a1460987/thumbnail/1024x576/07e375126dd6a149ca716655f5153218/0efb552bfa6e0c0f769de1bfa6b040e2.jpg",
+        "alt": ""
+      },
+      "uid": "5ac5ffd3-5a3f-4ab3-8db7-8d2e7ca6d6b6",
+      "description": "A former Colorado Bureau of Investigation DNA analyst has been sentenced to a decade in prison.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

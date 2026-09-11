@@ -1,0 +1,194 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-09-11",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Project approved to repair, improve part of I-270 in Denver metro area",
+      "summary": "After a six-year study, an $806 million project has been approved for I-270, the interstate connector running through Commerce City, a suburb about 30 miles southeast of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/project-approved-to-repair-improve-part-of-i-270-in-denver-metro-area/",
+      "published_at": "2026-09-11T04:22:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/11/b1f2fc28-431b-4a85-9bef-130861e7018d/thumbnail/1024x576/84f6584be8b011186b255c1263c2d424/ba21f097c4a7c72e15afd119ae362c48.jpg",
+        "alt": ""
+      },
+      "uid": "965dccae-3dd7-4cfb-bbc0-ca06272f6ab4",
+      "questions": [
+        "Have you had to drive I-270 lately?",
+        "Does an $806 million highway project sound like it will change the commute at all?"
+      ],
+      "description": "After a six-year study, an $806 million project has been approved for I-270 in Commerce City.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "'What a night for Yukon Jack': Garth Brooks thanks Denver for 5-concert run",
+      "summary": "Garth Brooks surprised fans with a \"secret\" concert in Denver, the state capital, about 30 miles southeast of Boulder. The string of Colorado shows enthralled audiences as Garth Brooks revisited early roots in the state.",
+      "source": "9NEWS",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/life/style/colorado-guide/what-a-night-for-yukon-jack-garth-brooks-thanks-denver-for-5-concert-run/73-91ed344e-bc96-4eaf-9435-10346e6756de",
+      "published_at": "2026-09-11T17:01:26+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/3b4ba505-c6f7-447a-a007-a0cc66a21815/20260909T120640/3b4ba505-c6f7-447a-a007-a0cc66a21815_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ab4b00ba-4893-425f-a829-5414a33eb039",
+      "questions": [
+        "Did you catch any of the Garth Brooks shows?",
+        "What is the best concert you have been to in Colorado?"
+      ],
+      "description": "Garth Brooks surprised fans with a \"secret\" concert in Denver last week. His string of Colorado shows enthralled as he revisited his roots in the state."
+    },
+    {
+      "title": "Colorado scientists make history, uncover Tyrannosaurus rex footprints",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "science",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/life/style/colorado-guide/scientists-discover-trackway-tyrannosaurus-rex/73-257fdba6-5d14-403d-8055-632fa81a6c28",
+      "published_at": "2026-09-11T04:19:29+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d2cc430e-4ff2-423d-bcab-076fe3ac6ab1/20260910T154622/d2cc430e-4ff2-423d-bcab-076fe3ac6ab1_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "060f10bc-136a-4a06-9f09-b9b4a255ba5b",
+      "questions": [
+        "Did you see the story about the T. rex tracks?",
+        "Do you ever get over to the Denver Museum of Nature & Science?"
+      ],
+      "description": "Scientists from the Denver Museum of Nature & Science and Liverpool John Moores University in England discovered the first adult T. rex trackway in North Dakota."
+    },
+    {
+      "title": "Drought conditions improved in some parts of Colorado after monsoon moisture",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/drought-conditions-improved-colorado-monsoon-moisture/",
+      "published_at": "2026-09-11T17:06:59+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/10/5259ac77-ba1d-429e-b140-56cc923f3255/thumbnail/1024x576/bc36c9c768e8319ed1a92a9df7772829/drought-monitor.png",
+        "alt": ""
+      },
+      "uid": "40af8981-04e1-418b-befc-93c9df701fc6",
+      "questions": [
+        "Has the rain made much of a difference where you are?",
+        "How has this year's weather compared to a normal one for you?"
+      ],
+      "description": "Recent rounds of monsoon moisture helped ease some of the short-term dryness across portions of northeast Colorado.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Tiny Town reopens for special \"Make a Wish\" guest",
+      "summary": "Tiny Town, a miniature-village attraction in the foothills about 40 miles south of Boulder, will reopen for 4-year-old Oliver, a special \"Make a Wish\" guest.",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/tiny-town-reopens-for-special-make-a-wish-guest/",
+      "published_at": "2026-09-11T13:02:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/11/6d40dac7-baec-4722-bcd2-b12d2c683bfa/thumbnail/1024x576/6fc213cb03db0315234ab319d56cfb9d/681954986389ca0c55a8b1a1905f3a54.jpg",
+        "alt": ""
+      },
+      "uid": "e23a4a47-383a-4157-9cd2-87b8ae289e41",
+      "questions": [
+        "Have you ever been to Tiny Town?",
+        "What did you make of the Make a Wish story?"
+      ],
+      "description": "Tiny Town will reopen for 4-year-old Oliver, a special \"Make a Wish\" guest.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Broncos coaches Payton, Rizzi were close to New York City at the time of the 9/11 attacks",
+      "summary": "The top coaches for the Broncos, Denver's NFL team, will be among those paying tribute to the nearly 3,000 people killed in the September 11 attacks 25 years ago.",
+      "source": "9NEWS",
+      "topic": "sports-feature",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/sports/nfl/denver-broncos/mike-klis/broncos-coaches-payton-rizzi-remember-9-11-attacks/73-a97b5e93-401f-4661-9bb1-46df190ff096",
+      "published_at": "2026-09-11T00:16:25+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ecfebcf3-cb11-433d-a9f1-72d6cf0d15a9/20251017T002118/ecfebcf3-cb11-433d-a9f1-72d6cf0d15a9_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "cd24bfaa-eb54-41ba-aa6a-21dc159b5dc5",
+      "questions": [
+        "Are you following the Broncos this season?",
+        "Did you see the coverage of the 9/11 anniversary tributes?"
+      ],
+      "description": "The Broncos' top coaches will be among those paying tribute to the nearly 3,000 killed in the terrorist attacks 25 years ago Friday."
+    },
+    {
+      "title": "'The Outsiders' musical brings Tulsa story to Denver stage",
+      "summary": "\"The Outsiders,\" the Tony Award-winning musical, is captivating audiences in Denver, the state capital, about 30 miles southeast of Boulder, during a three-week run. Actor Tyler Jordan Wesley shared insights on the role of Dally.",
+      "source": "9NEWS",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/life/style/colorado-guide/the-outsiders-musical-tour-denver/73-7544dcd8-6438-4ce4-a145-f1b06e66236a",
+      "published_at": "2026-09-11T14:25:11+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c3f6f881-25db-4ebb-b311-1090b5a3c2dc/20260909T163555/c3f6f881-25db-4ebb-b311-1090b5a3c2dc_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "cbb6f147-149d-4d4a-a23d-20c777f8f12f",
+      "questions": [
+        "Do you get down to Denver for shows much?",
+        "Is \"The Outsiders\" on your list?"
+      ],
+      "description": "\"The Outsiders,\" Tony Award-winning musical, captivates Denver audiences in its three-week run. Actor Tyler Jordan Wesley shared insights on his role as Dally."
+    }
+  ],
+  "sports": [
+    {
+      "team": "DU Hockey",
+      "scores": [
+        "unveils new championship ring"
+      ]
+    },
+    {
+      "team": "Broncos",
+      "scores": [
+        "injury report ahead of Week 1"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Denver sues to block ICE presence at polling places over voter intimidation fears",
+      "summary": "Denver, the state capital, about 30 miles southeast of Boulder, along with national advocacy groups, is suing over potential armed ICE presence at polls, arguing the presence could intimidate voters.",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [
+        "elections-politics"
+      ],
+      "url": "https://www.9news.com/article/news/politics/elections/denver-sues-block-ice-presence-polling-places/73-7ecc8018-8e8b-452e-9fa7-fee494a1e37d",
+      "published_at": "2026-09-11T00:52:43+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/78d4788b-9653-490c-b523-a9b2918d7323/20260911T000744/78d4788b-9653-490c-b523-a9b2918d7323_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "47fd3696-0d30-4926-89b9-ce8ac80f3a55",
+      "description": "Denver and national advocacy groups are suing over potential armed ICE presence at polls, arguing it could intimidate voters."
+    },
+    {
+      "title": "What's next after Weld County approves permit for what could be largest Colorado AI data center",
+      "summary": "Weld County, a farming and oil-and-gas county just east of Boulder, approved a 41-acre Global AI data center that could become the largest in Colorado, despite community concerns about water, power and noise.",
+      "source": "9NEWS",
+      "topic": "technology",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/colorado-news/whats-next-after-weld-county-approves-permit-for-ai-data-center/73-46dc56c5-3b23-4d2c-82fd-d8cb2ff4b66c",
+      "published_at": "2026-09-11T00:22:37+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/6b2c8d9d-f233-4e62-9009-6401d57716dd/20260910T231655/6b2c8d9d-f233-4e62-9009-6401d57716dd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "507e76f9-6d35-4b22-b362-0154e1ab503d",
+      "description": "Weld County approved a 41-acre Global AI data center that could become the largest in Colorado, despite community concerns about water, power and noise."
+    }
+  ]
+}

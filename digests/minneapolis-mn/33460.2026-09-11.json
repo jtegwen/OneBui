@@ -1,0 +1,145 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-09-11",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Why the Hispanic Heritage Awards left DC for Minneapolis this year",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/why-hispanic-heritage-awards-left-dc-minneapolis-year",
+      "published_at": "2026-09-11T02:54:44+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/9-p-hispanic-heritage-awards-_-glover_00.00.34.20.jpg",
+        "alt": ""
+      },
+      "uid": "3717dee6-14a9-4559-88bf-0e177da8dda8",
+      "questions": [
+        "Did you hear the Hispanic Heritage Awards came to Minneapolis this year?",
+        "Have you been to any of the Hispanic Heritage Month events around town?"
+      ],
+      "description": "For the first time in 39 years, the Hispanic Heritage Awards left Washington D.C. and came to Minneapolis, shining a national spotlight on the state's Latino community."
+    },
+    {
+      "title": "Flyovers at Twins, Gophers, Vikings games this weekend to honor 9/11 first responders",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/memorial-flyovers-twins-gophers-vikings-911/",
+      "published_at": "2026-09-11T17:39:29+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/11/06d82eaa-0e76-4e5a-8d29-956d63cc2e7d/thumbnail/1024x576/b78204351aa2b48070a68a273b01031e/12p-ll-pkg-39th-flying-training-squadron-wccob9as-1.jpg",
+        "alt": ""
+      },
+      "uid": "37981be0-3fcd-45ad-aee1-8e1f44f11ee5",
+      "questions": [
+        "Did you catch any of the 9/11 memorial flyovers at the games?",
+        "Are you more of a Twins, Gophers, or Vikings person?"
+      ],
+      "description": "Minnesota sports fans will have the opportunity to see several flyovers this weekend as part of a memorial for the first responders who gave their lives on 9/11.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "For Vikings' Aaron Jones, helping military kids start school right is personal",
+      "summary": "Vikings running back Aaron Jones knows exactly what military kids go through — because he lived it. Both of his parents retired as Sergeants Major in the U.S. Army, and that upbringing shaped everything from his football career to how he connects with kids from military families today. Jones teamed up with the United Heroes League, a nonprofit that helps military families afford youth sports, to hand out 500 pairs of shoes, helping kids start the school year with a little extra confidence. Hear why he says his childhood \"established him for today's world,\" on and off the field.",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/for-vikings-aaron-jones-helping-military-kids-start-school-right-is-personal/",
+      "published_at": "2026-09-11T13:10:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/11/cbb8ce03-7798-4a36-bf61-eb92e0ba1243/thumbnail/1024x576/913edb00bc4cf593a177e897a5fb4a70/1c474e50829540364edf7a8110b692df-0-1789132226831.jpg",
+        "alt": ""
+      },
+      "uid": "fab9a1e9-6f52-483a-ad4f-114e7ee0a1b4",
+      "questions": [
+        "Did you see the story about Aaron Jones handing out shoes to kids from military families?",
+        "Have you come across the United Heroes League before?"
+      ],
+      "description": "Vikings running back Aaron Jones knows exactly what military kids go through — because he lived it. Both of his parents retired as Sergeants Major in the U.S. Army, and that upbringing shaped everything from his football career to how he connects with kids from military families",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Developer scraps plans for proposed data center at Star Tribune site",
+      "summary": "A Virginia-based data center developer has scrapped its plans to move into the former printing facility of the Star Tribune, the Minneapolis newspaper, in the city's North Loop neighborhood, just northwest of downtown.",
+      "source": "FOX 9",
+      "topic": "technology",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/developer-scraps-plans-proposed-data-center-star-tribune-site",
+      "published_at": "2026-09-11T15:58:56+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-03-17h41m25s551.png",
+        "alt": ""
+      },
+      "uid": "7b36aa24-4f59-490a-a0c3-0fd5d3579097",
+      "questions": [
+        "Did you hear the data center planned for the old Star Tribune printing site fell through?",
+        "What is the North Loop like these days?"
+      ],
+      "description": "A Virginia-based data center developer has scrapped its plans to move into the former Star Tribune printing facility in Minneapolis’ North Loop neighborhood."
+    },
+    {
+      "title": "Minnesota bird migration: Millions flying south for seasonal migration",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minnesota-bird-migration-millions-flying-south-seasonal-migration-sept-11-2026",
+      "published_at": "2026-09-11T18:08:41+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/web-sept-11-birds.jpg",
+        "alt": ""
+      },
+      "uid": "ea42e50c-6c59-4fc7-94e3-8a6c069bcfe8",
+      "questions": [
+        "Have you done any bird watching during the fall migration?",
+        "Is there a good spot around the Twin Cities to watch the birds head south?"
+      ],
+      "description": "Millions of birds are flying south for the winter, and anyone in the upper Midwest can see them off before the season ends."
+    },
+    {
+      "title": "Volunteers remove buckthorn as part of Xcel Energy's Day of Service",
+      "summary": "Volunteers are out working to clear some pesky buckthorn, an invasive shrub, at the Wood Lake Nature Center, a nature preserve about 6 miles south of Minneapolis, as part of the Day of Service run by Xcel Energy, the electric utility company.",
+      "source": "CBS Minnesota",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/volunteers-remove-buckthorn-as-part-of-xcel-energys-day-of-service/",
+      "published_at": "2026-09-11T14:55:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/11/2cacba44-a9ba-4929-9675-826a3fe950b5/thumbnail/1024x576/44bccb6f08397ea1de4593fc879fa267/a54c65745474c3cc16253133cd7e2d33.jpg",
+        "alt": ""
+      },
+      "uid": "2294a634-15ad-4fbd-88a0-822d29dfa5d5",
+      "questions": [
+        "Have you ever pulled buckthorn at one of the volunteer days?",
+        "Do you know the Wood Lake Nature Center?"
+      ],
+      "description": "Volunteers are out working to clear some pesky Buckthorn at the Wood Lake Nature Center as part of Xcel Energy's Day of Service.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Minneapolis mass shooting: Threats reported 4 hours before Loring Towers gunman opened fire",
+      "summary": "Search warrants revealed a warning that came hours before the gunfire erupted at Loring Towers, an apartment high-rise in downtown Minneapolis.",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minneapolis-mass-shooting-threats-reported-4-hours-before-loring-towers-gunman-opened-fire",
+      "published_at": "2026-09-11T01:05:45+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/630-headline-1_mpls-shooting_00.00.27.06.jpg",
+        "alt": ""
+      },
+      "uid": "15576895-6b21-4023-84cd-0e1612f7233c",
+      "description": "Search warrants revealed a warning that came hours before the gunfire erupted at Loring Towers in downtown Minneapolis."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-09-09",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Concordia University in St. Paul to reduce tuition by 20% for 2027-2028 school year",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "education",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/concordia-university-st-paul-tuition-reduction/",
+      "published_at": "2026-09-09T23:29:26+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/09/a81fb442-b6c3-4c33-b098-f9164a129413/thumbnail/1024x576/38d0e4a3c30d13bc21c6500730172cdf/12p-vo-concordia-tuition-wccob8ng.jpg",
+        "alt": ""
+      },
+      "uid": "7474b300-8e81-463c-a4c2-bb58edae4239",
+      "questions": [
+        "Did you see Concordia in St. Paul is cutting tuition by 20%?",
+        "Do you have anyone heading to college soon?"
+      ],
+      "description": "The move to reduce tuition by $5,500 would take effect in the 2027-2028 school year. The yearly cost will be $21,700, putting Concordia's rate on par with other Minnesota public universities.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Vikings",
+      "scores": [
+        "names Wentz No. 2 quarterback",
+        "re-signs LB Jihad Ward"
+      ]
+    },
+    {
+      "team": "Gophers",
+      "scores": [
+        "leading scorer rejoins amid eligibility fight"
+      ]
+    },
+    {
+      "team": "Twins",
+      "scores": [
+        "Twins 3, Tigers 2"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "St. Paul’s homeless encampment closures may be on pause indefinitely",
+      "summary": "There are no scheduled dates to clear the remaining homeless encampments in St. Paul, the capital city, just east of Minneapolis, after city leaders called the closure of the camp at Pig's Eye Park, a riverfront park on the city's southeast edge, unsuccessful.",
+      "source": "FOX 9",
+      "topic": "housing",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/st-pauls-homeless-encampment-closures-may-be-pause-indefinitely",
+      "published_at": "2026-09-09T02:19:38+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/pigs-eye-park-encampment.jpg",
+        "alt": ""
+      },
+      "uid": "d491d4ba-0d75-4033-af45-9e36ee084cd8",
+      "description": "There are no scheduled dates to clear St. Paul's remaining homeless encampments after city leaders called the closure of the camp at Pig's Eye Park unsuccessful."
+    }
+  ]
+}

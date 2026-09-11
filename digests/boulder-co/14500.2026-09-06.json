@@ -1,0 +1,49 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-09-06",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Colorado man living with cerebral palsy training to take on marathon",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/colorado-man-living-with-cerebral-palsy-training-to-take-on-marathon/",
+      "published_at": "2026-09-06T23:17:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/06/85dea31d-600f-42db-ac8a-58cba9aec762/thumbnail/1024x576/d253f24f300c6b952d7356c3f548606b/49e158df5aec441f12a17f1d50c30882.jpg",
+        "alt": ""
+      },
+      "uid": "5fd5de6a-273d-4c2b-8689-59c885649cd6",
+      "questions": [
+        "Are you planning to be anywhere near the Boulderthon route?",
+        "Do you run any of the local races?"
+      ],
+      "description": "A Colorado man living with cerebral palsy is training to take on a marathon, the upcoming Boulderthon 2026.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Colorado Bureau of Investigation says no evidence to change Megan Trussell's cause of death",
+      "summary": "The Colorado Bureau of Investigation says there is no evidence to change the cause of death of Megan Trussell, the University of Colorado Boulder student found dead in Boulder County, from being listed as suicide.",
+      "source": "CBS Colorado",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/colorado-bureau-of-investigation-says-no-evidence-to-change-megan-trussells-cause-of-death/",
+      "published_at": "2026-09-06T14:32:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/06/9161f890-ce77-4d32-a640-812336cc5e2e/thumbnail/1024x576/ac13f96702f8ba9b3922036eba841027/008fa59832e9f40eaccc9d31806cabac.jpg",
+        "alt": ""
+      },
+      "uid": "6e12e975-fa29-447c-bd71-fe23dbee2fb8",
+      "description": "The Colorado Bureau of Investigation says there is no evidence to change Megan Trussell's cause of death from being listed as suicide.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

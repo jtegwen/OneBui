@@ -1,0 +1,151 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-09-08",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Minnesota State Fair total attendance: How many people went in 2026",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minnesota-state-fair-attendance-how-many-people-went-2026",
+      "published_at": "2026-09-08T20:51:49+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/image2026-09-08-13h37m59s915.jpg",
+        "alt": ""
+      },
+      "uid": "8ae822b3-ebf3-4827-9ae8-d716ee8b3676",
+      "questions": [
+        "Did you make it to the State Fair this year?",
+        "What is the one thing you always eat at the fair?"
+      ],
+      "description": "The Minnesota State Fair fell short of setting a new overall attendance record in 2026, but still finished with one of the largest crowds in fair history."
+    },
+    {
+      "title": "As Minnesota's largest districts kick off school year, safety and literacy are key missions",
+      "summary": "It's back to school Tuesday for tens of thousands of students across the Twin Cities. Some schools did start early this year, but the state's biggest school districts — Anoka-Hennepin, in the northern suburbs of Minneapolis, plus Minneapolis and St. Paul — are open Tuesday morning.",
+      "source": "CBS Minnesota",
+      "topic": "education",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/anoka-hennepin-minneapolis-st-paul-public-schools-begin-2026-2027-school-year/",
+      "published_at": "2026-09-08T12:49:57+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/08/58cffd20-09c0-4877-9aed-c4904a78c96e/thumbnail/1024x576/5b5db1940d5955d994dc5d9a7953eaf5/bts.jpg",
+        "alt": ""
+      },
+      "uid": "1987d0fd-6c75-4672-aca6-c45688f49826",
+      "questions": [
+        "Is anyone in your household heading back to school this year?",
+        "How do the first weeks of the school year usually go for you?"
+      ],
+      "description": "It's back to school Tuesday for tens of thousands of students across the Twin Cities. Some schools did start early this year, but the state's biggest school districts — Anoka-Hennepin, Minneapolis and St. Paul — are open Tuesday morning.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Low lake levels creating problems for boaters in Minnesota; DNR offers guidance",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "drought-water",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-low-lake-levels-drought-boats/",
+      "published_at": "2026-09-08T01:28:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/07/0c5d2696-380d-4c3e-bf79-ee5009f47645/thumbnail/1024x576/3f1c461472df74f6e0aee0b6fda0f029/story-3-low-lakes-vo-wccob86r.jpg",
+        "alt": ""
+      },
+      "uid": "85522d39-8e34-4ad9-aba7-90e17f8d398c",
+      "questions": [
+        "Have you been out on the water at all this summer?",
+        "Have the low lake levels affected anyone you know with a boat?"
+      ],
+      "description": "The unofficial end of summer left some boaters in Minnesota high and dry over Labor Day weekend. Most of the state is bone dry right now. That's led to lower lake levels and banged-up boats.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Hiawatha Avenue construction closures begin Sept. 8 for safety upgrades",
+      "summary": "Hiawatha Avenue, the main road running southeast out of downtown Minneapolis, will be reduced to single-lane traffic in both directions between Minnehaha Parkway and East 44th Street, a stretch in south Minneapolis, beginning Sept. 8.",
+      "source": "FOX 9",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/hiawatha-avenue-construction-closures-sept-8-safety-upgrades-2026",
+      "published_at": "2026-09-08T00:31:24+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/hiawatha-mndot-project-sized.jpg",
+        "alt": ""
+      },
+      "uid": "4aff23cd-bdbc-4d16-b40b-a726cc87a0db",
+      "questions": [
+        "Does the Hiawatha Avenue construction affect your commute?",
+        "What is your usual way around when a main road closes?"
+      ],
+      "description": "Hiawatha Avenue will be reduced to single-lane traffic in both directions between Minnehaha Parkway and East 44th Street beginning Sept. 8."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Vikings",
+      "scores": [
+        "season opener vs. Packers at U.S. Bank Stadium"
+      ]
+    },
+    {
+      "team": "Gophers",
+      "scores": [
+        "cheer team feature"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "What Minnesotans can expect now that Canada has imposed new tariffs",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/what-minnesotans-can-expect-now-that-canada-has-imposed-new-tariffs/",
+      "published_at": "2026-09-08T23:11:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/08/0e1f0518-57a9-4076-b5b2-8ecb8dd2324e/thumbnail/1024x576/bafb4a07ea96925a859f5365f94b4a4c/755a9d83fc79532a3776365af9b392a3.png",
+        "alt": ""
+      },
+      "uid": "fdadb427-0baf-40e7-8ec5-8130816f358c",
+      "description": "Minnesota's neighbor to the north is striking back in President Trump's widening trade war. Canada just imposed new tariffs ranging from 15% to 50% on everything from milk to fishing rods to hockey gear.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "University of Minnesota increasing police patrols as classes start following Dinkytown shooting",
+      "summary": "As tens of thousands of students prepare to start classes at the University of Minnesota on Tuesday, police are upping patrols following a shooting in Dinkytown, the student neighborhood next to the university's Minneapolis campus.",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/university-of-minnesota-campus-dinkytown-shooting-sept-6-2026/",
+      "published_at": "2026-09-08T14:24:29+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/06/a1a29b1a-ed2e-441e-aab7-7b7b7d6d88bb/thumbnail/1024x576/bf82dffc5813823d673f3fd6950363ba/6a-vo-4t-dinkytown-shooting-wccob7wj.jpg",
+        "alt": ""
+      },
+      "uid": "8d31d2bf-754c-4b4e-b4d4-c61c3e639326",
+      "description": "As tens of thousands of students prepare to start classes at the University of Minnesota on Tuesday, police are upping patrols.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Canada's new tariffs on US goods hit Minnesota industries amid ongoing trade tensions",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/canadas-new-tariffs-on-us-goods-hit-minnesota-industries-amid-ongoing-trade-tensions/89-022ca49e-21ed-46f6-a81f-d5778b4d8b24",
+      "published_at": "2026-09-08T23:58:56+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/a7429077-8bc0-425a-9229-22e1e3ac760b/20260908T232413/a7429077-8bc0-425a-9229-22e1e3ac760b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e2288594-7726-4135-96e1-163b48d5da89",
+      "description": "Canada's new retaliatory tariffs against the U.S. are in effect as of Sept. 8. This is the latest move in an escalating trade war."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-09-07",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "City waives storm debris fees at Bitters Brush Recycling Center through Labor Day",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/community/san-antonio-waives-fees-bitters-brush-recycling-center-labor-day-texas/273-418d83f2-4623-4fae-902c-350802a71bb3",
+      "published_at": "2026-09-07T22:13:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b23d2aaf-2c35-4415-8148-eb9ea5b18ed8/20260907T215123/b23d2aaf-2c35-4415-8148-eb9ea5b18ed8_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "276eb5d0-e131-44a4-9bba-fc27b8f53f4b",
+      "questions": [
+        "Did the storms leave much cleanup around your place?",
+        "Have you had to haul off any storm debris?"
+      ],
+      "description": "Storm-hit residents rush to a city center waiving fees for storm debris drop-offs through Labor Day, providing a win-win for cleanup and free mulch opportunities."
+    },
+    {
+      "title": "Canyon Lake reaches 100% water level as families enjoy Labor Day weekend",
+      "summary": "Families spent Labor Day soaking up the final day of the holiday weekend at Canyon Lake, a reservoir about 40 miles northeast of San Antonio, taking advantage of the lake's high water levels.",
+      "source": "KENS 5",
+      "topic": "drought-water",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/community/canyon-lake-water-level-labor-day-weekend-texas/273-23460954-f49b-4884-bd5d-880f19cc19da",
+      "published_at": "2026-09-07T21:16:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/f7ca500c-a1fd-41b5-91de-a6010018df2b/20260907T211346/f7ca500c-a1fd-41b5-91de-a6010018df2b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "f6dd71b9-ca82-42f1-ac59-0ca01089331b",
+      "questions": [
+        "Do you get out to Canyon Lake much?",
+        "Is Canyon Lake a good spot for a day out?"
+      ],
+      "description": "Families spent Labor Day soaking up the final day of the holiday weekend at Canyon Lake, taking advantage of the lake’s high water levels."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": []
+}

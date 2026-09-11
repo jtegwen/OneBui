@@ -1,0 +1,38 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-09-09",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Train horns return to some San Antonio neighborhoods after quiet zones suspended",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/community/train-horns-quiet-zones-alta-vista-railroad-crossings-haven-brady/273-6df9e928-4df1-44a1-9bf6-92a89afd9ee0",
+      "published_at": "2026-09-09T11:50:42+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b66d9cde-cf49-483d-bd1f-fba238c9c6f5/20260909T114618/b66d9cde-cf49-483d-bd1f-fba238c9c6f5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "37e5d608-89b4-481d-85e0-9e44f312aaab",
+      "questions": [
+        "Can you hear the train horns from your neighborhood?",
+        "Have the quiet zones been a topic around San Antonio?"
+      ],
+      "description": "The city is working on dozens of railroad crossings after several quiet zones were suspended, meaning residents could hear more train horns in the coming months."
+    }
+  ],
+  "sports": [
+    {
+      "team": "UTSA",
+      "scores": [
+        "at Texas State for I-35 rivalry"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": []
+}

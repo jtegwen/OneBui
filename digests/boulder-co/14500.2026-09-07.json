@@ -1,0 +1,129 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-09-07",
+  "are_you_ok": [
+    {
+      "title": "Voluntary evacuations still in place for wildfire north of Lyons",
+      "summary": "A wildfire near Lyons, a small town about 15 miles north of Boulder, prompted voluntary evacuations for Lonestar Road and Stagecoach Trail, the Pinewood Springs Fire Protection District said.",
+      "source": "9NEWS",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/wildfire/fire-near-pinewood-springs-larimer-county/73-c84463b1-208d-48de-8718-44a4d02fbbb8",
+      "published_at": "2026-09-07T22:53:25+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d6e96894-2391-4790-9a9f-be649e100c17/20260907T170807/d6e96894-2391-4790-9a9f-be649e100c17_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "6f5d1a07-c3e6-44de-b961-4b8615b305a4",
+      "questions": [
+        "Are you anywhere near the evacuation area?",
+        "Is the smoke reaching you at all?"
+      ],
+      "description": "A wildfire near Lyons prompted voluntary evacuations for Lonestar Road and Stagecoach Trail, the Pinewood Springs Fire Protection District said."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Amazon opens $400 million Northern Colorado fulfillment center after years of construction",
+      "summary": "After years of construction and delays, Amazon has officially opened a massive fulfillment center in Loveland, a city about 30 miles north of Boulder, bringing more than 1,100 employees into a facility that had largely sat unused since construction began.",
+      "source": "CBS Colorado",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/amazon-colorado-fulfillment-center-loveland/",
+      "published_at": "2026-09-07T23:32:35+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/07/7d69e323-ffc9-4b01-87cf-67bac16222e0/thumbnail/1024x576/e4dd3b5c98b0813298b6841b5bc60280/amazon2.jpg",
+        "alt": ""
+      },
+      "uid": "e94cfe40-8aa5-4291-a63b-47575c089477",
+      "questions": [
+        "Has the new Amazon center been a big topic up your way?",
+        "Do you know anyone working out in Loveland?"
+      ],
+      "description": "After years of construction and delays, Amazon has officially opened its massive fulfillment center in Loveland, bringing more than 1,100 employees into a facility that had largely sat unused since construction began.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Denver homebuyers find deals as nearly 1 in 3 homes see price cuts",
+      "summary": "The housing market in Denver, the state capital, about 30 miles southeast of Boulder, is shifting, presenting buyers with potential deals as 31% of homes see price cuts. Sellers may need to adjust strategies.",
+      "source": "9NEWS",
+      "topic": "housing",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/money/markets/real-estate/homebuyers-deals-september-real-estate/73-8c20a95f-2c8d-4055-a7f5-ee2e1f73bb6d",
+      "published_at": "2026-09-07T17:15:06+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/53ace89d-be87-473d-b034-7d2e347e545a/20260907T134802/53ace89d-be87-473d-b034-7d2e347e545a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ca12bc52-222a-423f-a060-a0c848ac9066",
+      "questions": [
+        "Are you seeing prices come down around Boulder too?",
+        "Is the housing market something people there talk about a lot?"
+      ],
+      "description": "The Denver housing market is shifting this fall, presenting buyers with potential deals as 31% of homes see price cuts. Sellers may need to adjust strategies."
+    },
+    {
+      "title": "Barry Morphew faces judge Tuesday, and possibility of more fallout, after hit-and-run crash",
+      "summary": "A judge issued a new bail requirement that would force Barry Morphew, the Colorado man charged in the death of his wife, to come up with $3 million to be freed while awaiting trial in 2027.",
+      "source": "9NEWS",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/crime/barry-morphew-court-colorado-latest-suzanne-morphew/73-3f27a72e-d14b-40e8-815a-00325e0486dc",
+      "published_at": "2026-09-07T22:05:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d6742789-afed-470b-bf37-13c3dc8c06a4/20250620T224005/d6742789-afed-470b-bf37-13c3dc8c06a4_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "391f39b7-9c66-4e99-83ab-504a863a92a2",
+      "questions": [
+        "Have you been following the Barry Morphew case?",
+        "Does the case get much coverage locally?"
+      ],
+      "description": "Judge issued new bail requirement that would force him to come up with $3 million if he wants to be freed while awaiting trial in 2027."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "re-sign safety Taylor Rapp"
+      ]
+    },
+    {
+      "team": "Mines",
+      "scores": [
+        "ties Washburn, called for heat"
+      ]
+    },
+    {
+      "team": "Rockies",
+      "scores": [
+        "first team eliminated from playoff race",
+        "players protest umpire in cap tilt"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Erie oil drilling plans change after Colorado residents push back; $17 million lawsuit possible",
+      "summary": "A controversial oil and gas project in Erie, a town about 10 miles east of Boulder, is being redrawn after residents pushed back against plans to drill underneath hundreds of homes, but the fight could now move to the courtroom.",
+      "source": "CBS Colorado",
+      "topic": "energy-utilities",
+      "topics_secondary": [
+        "civil-litigation"
+      ],
+      "url": "https://www.cbsnews.com/colorado/news/draco-project-erie-oil-drilling-colorado-residents-lawsuit/",
+      "published_at": "2026-09-07T15:33:30+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/07/7fc2de41-7680-451f-acc5-534736dfb7ca/thumbnail/1024x576/0a38a485ee1aca982f896f24005053a4/erie.jpg",
+        "alt": ""
+      },
+      "uid": "f585e7bd-fc26-4365-b8c5-f08288986687",
+      "description": "A controversial oil and gas project in Erie is being redrawn after residents pushed back against plans to drill underneath hundreds of homes, but the fight could now move to the courtroom.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

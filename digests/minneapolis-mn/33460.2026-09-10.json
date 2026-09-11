@@ -1,0 +1,458 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-09-10",
+  "are_you_ok": [
+    {
+      "title": "4 p.m. Minnesota forecast from Sept. 10, 2026 | NEXT Weather",
+      "summary": "Severe weather is expected to move across Minnesota from 5 p.m. to 1 a.m., bringing the threat of large hail, damaging winds, and tornadoes to parts of the state, reports Mike Augustyniak, a meteorologist at WCCO, the CBS television station in Minneapolis.",
+      "source": "CBS Minnesota",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/4-p-m-minnesota-forecast-from-sept-10-2026-next-weather/",
+      "published_at": "2026-09-10T21:30:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/10/232e2dde-f5f3-4ca2-b13c-9f219c0e2988/thumbnail/1024x576/a9f47d62840acef1f1cc21b50c9facaa/5cf2f65fa0815e178f5fe9f2d0f04b05.jpg",
+        "alt": ""
+      },
+      "uid": "eb297baa-819d-4d6f-87ee-ff9c59c2d27d",
+      "questions": [
+        "Did the storms come through your area?",
+        "Is everything okay at home after the severe weather?"
+      ],
+      "description": "Severe weather is expected to move across Minnesota from 5 p.m. to 1 a.m., bringing the threat of large hail, damaging winds, and tornadoes to parts of the state, WCCO meteorologist Mike Augustyniak reports.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Doctors strike: Allina Unity, Mercy Hospitals to see 4-day picket starting Monday",
+      "summary": "A group of doctors at two hospitals run by Allina Health, one of the largest hospital systems in the Minneapolis-St. Paul area, is heading to the picket line after years of what they call unsuccessful negotiations.",
+      "source": "FOX 9",
+      "topic": "public-health",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/doctors-strike-allina-unity-mercy-hospitals-see-4-day-picket-starting-monday",
+      "published_at": "2026-09-10T21:41:36+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2019/10/allina20health_1465431036289_1414571_ver1.0_640_360.jpg",
+        "alt": ""
+      },
+      "uid": "2e6873e8-bab6-4037-9c35-a1e12cc1565f",
+      "questions": [
+        "Are you or anyone close to you affected by the doctors' picket at the Allina hospitals?",
+        "Has the strike changed anything about getting an appointment?"
+      ],
+      "description": "A group of doctors at two Allina hospitals is heading to the picket line after years of what they call unsuccessful negotiations."
+    },
+    {
+      "title": "Allina Health hospice nurses announce 7-day strike",
+      "summary": "More than 60 hospice nurses at Allina Health, one of the largest hospital systems in the Minneapolis-St. Paul area, say they will walk off the job on Friday after a final bargaining session ended without a deal.",
+      "source": "FOX 9",
+      "topic": "public-health",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/allinja-health-nurses-strike-sept-9-2026",
+      "published_at": "2026-09-10T16:30:45+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2025/10/vo___allina-history_00.00.00.00.jpg",
+        "alt": ""
+      },
+      "uid": "2de68ee0-964a-4062-ac10-241daea45a14",
+      "questions": [
+        "Have you been following the Allina hospice nurses' strike?",
+        "Does the walkout affect anyone you know?"
+      ],
+      "description": "More than 60 hospice nurses at Allina Health say they will walk off the job on Friday after a final bargaining session ended without a deal."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "$35 million donation to Children's Minnesota believed to be the largest of its kind in the state",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "public-health",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/childrens-minnesota-golisano-campus-35-million-gift/",
+      "published_at": "2026-09-10T23:32:48+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/01/5818a37c-0b25-4677-85fa-538005c7d7cc/thumbnail/1024x576/a7f6c0ce1218d60ff10c34c4f4b1eb99/gettyimages-2173508421.jpg",
+        "alt": ""
+      },
+      "uid": "1788a5fa-402a-4f96-a57a-a01161b24c56",
+      "questions": [
+        "Did you see the $35 million gift to Children's Minnesota?",
+        "Have you had any experience with Children's Minnesota?"
+      ],
+      "description": "The money will fuel a 10-year push into precision medicine at a hospital system that treats children from before birth through young adulthood.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Selby Jazz Fest marks 25 years in Saint Paul's Rondo neighborhood",
+      "summary": "What started as a small coffee shop block party in 2001 has grown into a 25-year tradition rooted in rebuilding the Rondo neighborhood, a historically Black neighborhood in St. Paul, the capital city, just east of Minneapolis, which was disrupted by highway construction decades ago.",
+      "source": "CBS Minnesota",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/selby-jazz-fest-marks-25-years-in-saint-pauls-rondo-neighborhood/",
+      "published_at": "2026-09-10T15:11:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/10/a5347bbf-a979-4b9c-ace8-b47596eebb7b/thumbnail/1024x576/babaf0e1b0135874a3de50c65146b44f/96bc03e5b20c513c561ff3fdb717d350.jpg",
+        "alt": ""
+      },
+      "uid": "1c8af3a0-e0d1-4ff6-b65f-f9c30ae4f4e4",
+      "questions": [
+        "Have you ever been to the Selby Jazz Fest?",
+        "Twenty-five years in Rondo — do you know that part of St. Paul well?"
+      ],
+      "description": "What started as a small coffee shop block party in 2001 has grown into a 25-year tradition rooted in rebuilding the Rondo neighborhood, which was disrupted by highway construction decades ago.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Shotgun or rifle? Firearm law changes ahead of deer hunting season",
+      "summary": "A new law eliminated the state's longtime \"shotgun zone,\" the southern farm country where deer hunters could not use rifles, to give counties the authority to choose which firearms hunters can use.",
+      "source": "KARE 11",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/local/shotgun-or-rifle-firearm-law-changes-ahead-of-deer-hunting-season/89-89ffc418-dc25-42aa-a3f3-d0c5714f8e5e",
+      "published_at": "2026-09-10T23:34:05+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/ec11e23a-5665-46a2-a3e5-3bd49d45126c/20260910T220149/ec11e23a-5665-46a2-a3e5-3bd49d45126c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "cc099844-2a09-46f2-ba4c-698520f6040c",
+      "questions": [
+        "Do you or anyone in your family deer hunt?",
+        "Have you heard how people are reacting to the shotgun zone change?"
+      ],
+      "description": "A new law eliminated the state's longtime \"shotgun zone\" to give counties the authority to choose which firearms hunters can use."
+    },
+    {
+      "title": "Watch: Homeowners get a shock when man falls through ceiling",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/watch-homeowner-gets-shock-when-man-falls-through-ceiling",
+      "published_at": "2026-09-10T23:42:06+00:00",
+      "image": {
+        "url": "https://static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/storyful-348198-bizarre_moment_man_falls_through_ceiling_during_roof_inspection.00_00_07_24.still004.jpg",
+        "alt": ""
+      },
+      "uid": "cc04fb12-44f0-499f-9325-e02076204af8",
+      "questions": [
+        "Did you see the video of the insurance adjuster falling through the ceiling?",
+        "Have you ever had a home inspection go sideways?"
+      ],
+      "description": "Video captured the bizarre moment an insurance adjuster fell through the ceiling of a home during a roof inspection."
+    },
+    {
+      "title": "Northern Minnesota wildfires: All wildfires now 100% contained",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/northern-minnesota-wildfires-all-wildfires-now-100-contained",
+      "published_at": "2026-09-10T20:39:09+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/northern-mn-wildfires.jpg",
+        "alt": ""
+      },
+      "uid": "7f8a7a86-e1be-451c-9056-de9c73d82171",
+      "questions": [
+        "Did you hear the northern Minnesota wildfires are fully contained now?",
+        "Did the smoke reach you at all this summer?"
+      ],
+      "description": "The wildfires that burned in northern Minnesota for months have now been 100% contained, fire officials report."
+    },
+    {
+      "title": "Rare tapestry goes on display at Minneapolis Institute of Art for first time in 70 years",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/minneapolis-institute-of-art-dante-meets-virgil-tapestry/",
+      "published_at": "2026-09-10T00:44:10+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/10/8671e01d-29f0-40e7-8d8a-52c165d03d3a/thumbnail/1024x576/cbdbba2e78d05c3fadb5334d02472bd7/5p-pkg-mia-tapestry-wccob8p2-00-00-1619.jpg",
+        "alt": ""
+      },
+      "uid": "f0abb672-b959-476e-9d13-35ecf71be574",
+      "questions": [
+        "Have you been to the Minneapolis Institute of Art lately?",
+        "Would a 17-foot Renaissance tapestry be worth the trip?"
+      ],
+      "description": "The 17-foot-tall artwork was designed by Italian Renaissance painter Francesco Salviati and was woven in Florence, Italy, in the 1540s.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "The Jessi Pierce Community Cup will be held this December in St. Paul",
+      "summary": "Minnesota Hockey is putting on a youth tournament in honor of sports reporter and hockey lover Jessi Pierce. In December, the Jessi Pierce Community Cup will be held at Tria Rink, a hockey arena in downtown St. Paul, the capital city, just east of Minneapolis.",
+      "source": "CBS Minnesota",
+      "topic": "sports-feature",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/jessi-pierce-community-cup-december-st-paul/",
+      "published_at": "2026-09-10T23:39:55+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/22/51130a6a-95ee-4b51-bf3b-65559162bacf/thumbnail/1024x576/449e17841289d73b131c0dcbedd6c2d2/jessi-pierce-fb-credit-crested-river.jpg",
+        "alt": ""
+      },
+      "uid": "e58833d7-33da-4146-bb85-50cc83c44ea0",
+      "questions": [
+        "Did you hear about the youth hockey tournament named for Jessi Pierce?",
+        "Is hockey part of your winter?"
+      ],
+      "description": "Minnesota Hockey is putting on a youth tournament in honor of sports reporter and hockey lover Jessi Pierce. This December, the Jessi Pierce Community Cup​ will be held in St. Paul at Tria Rink.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Maplewood's iconic Plaza Theater reopens Friday, all tickets still $5",
+      "summary": "An icon of the East Side — the area on the eastern edge of St. Paul, about 10 miles northeast of Minneapolis — is back, and its second act starts Friday.",
+      "source": "FOX 9",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/iconic-plaza-theater-reopens-friday-keeps-prices-low",
+      "published_at": "2026-09-10T14:30:12+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/plaza-theater-reopens.jpg",
+        "alt": ""
+      },
+      "uid": "93d55228-78d3-428e-a1f4-7f0e2fb6e270",
+      "questions": [
+        "Did you hear the Plaza Theater reopened with $5 tickets?",
+        "Do you get out to the East Side much?"
+      ],
+      "description": "An East Side icon is back — and its second act starts this weekend."
+    },
+    {
+      "title": "First-ever adult Tyrannosaurus rex trackway discovered in North Dakota badlands",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "science",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/adult-tyrannosaurus-rex-trackway-north-dakota/",
+      "published_at": "2026-09-10T15:38:43+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/10/12af0fe8-330b-402a-a9e3-30d9400d6df1/thumbnail/1024x576/35189787c0e2f3e071ba694f6523230a/61216456-dscn2241.jpg",
+        "alt": ""
+      },
+      "uid": "19657a1f-21c1-4a9c-a0ef-3289482b2271",
+      "questions": [
+        "Did you see they found the first adult T. rex trackway in North Dakota?",
+        "Were you ever into dinosaurs as a kid?"
+      ],
+      "description": "Paleontologists have identified the first known trackway made by a full-grown Tyrannosaurus rex, and the discovery was made in the North Dakota badlands.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Bloomington PD to announce new human trafficking multi-agency investigative unit",
+      "summary": "The police department in Bloomington, a suburb just south of Minneapolis, announced Thursday they are planning to form a multi-agency unit to investigate and address human trafficking in the Twin Cities metro.",
+      "source": "FOX 9",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/bloomington-police-new-human-trafficking-multi-agency-investigative-unit",
+      "published_at": "2026-09-10T17:31:53+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2022/11/Bloomington-shooting-11_23-KMSPEME001_mpg_00.03.08.38.jpg",
+        "alt": ""
+      },
+      "uid": "0e8601ec-7b06-4ec6-9094-2c6561035f1b",
+      "questions": [
+        "Did you see Bloomington is starting a multi-agency human trafficking unit?",
+        "Has that been in the news much where you are?"
+      ],
+      "description": "The Bloomington Police Department announced Thursday they are planning to form a multi-agency unit to investigate and address human trafficking in the Twin Cities metro."
+    },
+    {
+      "title": "Sounds of Blackness founder Gary Hines reflects on his mom, jazz singer Doris Hines, in new memoir",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/sounds-of-blackness-founder-gary-hines-reflects-on-his-mom-jazz-singer-doris-hines-in-new-memoir/",
+      "published_at": "2026-09-10T15:07:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/10/beff24be-54f7-4ad4-91c1-e1955bb5bb50/thumbnail/1024x576/bfd8b37a1368db81f7991cfd5e2330c1/d51d5c597073c2ad4c9c386bfc79594c.jpg",
+        "alt": ""
+      },
+      "uid": "84a42dfa-918f-4b1a-baec-dba0dd205b27",
+      "questions": [
+        "Have you heard of Sounds of Blackness?",
+        "Did you see the new memoir about jazz singer Doris Hines?"
+      ],
+      "description": "A new memoir co-authored by Doris Hines and her daughter chronicles the life of the Minneapolis jazz singer who performed alongside Ella Fitzgerald, Duke Ellington, and Dinah Washington.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "How a 63-acre Minnesota farm became a model for regenerative agriculture rooted in spiritual values",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "agriculture",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/salvatierra-farms-minnesota-regenerative-agriculture/",
+      "published_at": "2026-09-10T20:02:09+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/07/23/b70a422c-53c0-40e0-8fb3-1c6ed3f7287b/thumbnail/1024x576/d0983abb34dbae996daa219712c484b9/gettyimages-2225614751.jpg",
+        "alt": ""
+      },
+      "uid": "7d154d4c-7678-465c-b344-ffea9f676938",
+      "questions": [
+        "Did you read about the regenerative farm down in southern Minnesota?",
+        "Do you have any connection to farming in the state?"
+      ],
+      "description": "Reginaldo Haslett-Marroquin transformed a former conventional row crop farm in southern Minnesota into a research and training hub for regenerative farming — drawing together Lakota tribal members, former large-scale farmers, and Catholic sisters around a shared connection to",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Crystal police take down Flock cameras after residents express privacy concerns",
+      "summary": "Police in Crystal, a suburb about 8 miles northwest of Minneapolis, say they're ending their relationship with Flock, the license-plate camera company, and pulling the six cameras in the city after hearing community concerns about privacy and data sharing.",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/crystal-police-take-down-flock-cameras-privacy-concerns/",
+      "published_at": "2026-09-10T14:57:17+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/09/0111d53a-9ad5-44d8-b045-0147d15dc3a6/thumbnail/1024x576/dd1d4b005cce2488a5ab2e68abf5aae3/gettyimages-2293743504.jpg",
+        "alt": ""
+      },
+      "uid": "080bc0e9-4298-4e37-8966-8213d22fe2dd",
+      "questions": [
+        "Did you hear Crystal is taking down the Flock cameras?",
+        "Have license plate cameras come up in your city?"
+      ],
+      "description": "Police in Crystal, Minnesota, say they're ending their relationship with Flock​ and pulling the six cameras in the city after hearing community concerns about privacy and data sharing.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Wild",
+      "scores": [
+        "Hughes in no rush on contract extension"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Guns drawn during Mall of America confrontation between opposing groups: Charges",
+      "summary": "Police in Bloomington, a suburb just south of Minneapolis, arrested four men after reports of guns being drawn at Mall of America during a confrontation between opposing groups.",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/guns-drawn-during-mall-america-confrontation-between-opposing-groups-charges",
+      "published_at": "2026-09-10T23:04:21+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2021/01/police-lights.jpg",
+        "alt": ""
+      },
+      "uid": "6582e53b-b61d-4cbd-bd7b-788b47fb29eb",
+      "description": "Bloomington police arrested four men after reports of guns being drawn at Mall of America during a confrontation between opposing groups."
+    },
+    {
+      "title": "Minnesota Truth Council collects testimony about lasting impact of Operation Metro Surge",
+      "summary": "Several people testified at the Minnesota Truth Council Wednesday evening at the Minnesota State Capitol. The council, established by Gov. Tim Walz via an executive order, will record and assess the overall impact of Operation Metro Surge, the federal enforcement push in the Minneapolis-St. Paul area.",
+      "source": "CBS Minnesota",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-truth-council-testimony/",
+      "published_at": "2026-09-10T13:32:13+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/10/1b5f8bb1-7157-493d-ad80-0ec79e37529d/thumbnail/1024x576/c6241b9c76d108113639e87ef9080baf/6a-hl-vo-truth-council-wccob8v2-1.jpg",
+        "alt": ""
+      },
+      "uid": "551af5ab-86a7-416c-9dee-c3930173c8e7",
+      "description": "Several people testified at the Minnesota Truth Council Wednesday evening at the Minnesota State Capitol. The council, established by Gov. Tim Walz via an executive order, will record and assess the overall impact of the immigration enforcement operation.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Brooklyn Center police raid 2 hotels in human trafficking, gun investigation, 23 arrested",
+      "summary": "Police in Brooklyn Center, a suburb about 9 miles northwest of Minneapolis, arrested 23 people during a raid that centered around two hotels Wednesday morning.",
+      "source": "CBS Minnesota",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/brooklyn-center-hotel-raid-sept-9-2026/",
+      "published_at": "2026-09-10T03:02:47+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/09/19de9ae3-24c3-43f7-a08d-e0a429062ef1/thumbnail/1024x576/276c34d610668b6d0bb19764d9b2bf77/inx-brooklyn-center-raid-9-09-26.jpg",
+        "alt": ""
+      },
+      "uid": "6f7f71c9-cc6d-483d-a8a2-d57121f4ecc7",
+      "description": "Police in Brooklyn Center, Minnesota, arrested 23 people during a raid that centered around two hotels Wednesday morning.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "St. Paul City Council blocks expansion of police drone program",
+      "summary": "Days after police in St. Paul, the capital city, just east of Minneapolis, used a drone to locate and rescue a child struggling in a pond, the city’s council blocked the police department’s effort to expand its docked drone program.",
+      "source": "FOX 9",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/st-paul-city-council-blocks-expansion-police-drone-program",
+      "published_at": "2026-09-10T03:07:55+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/9p-st-paul-city-council-drone-program_pofahl_00.00.45.58.jpg",
+        "alt": ""
+      },
+      "uid": "dd46db53-b518-49d2-9811-93ab5ee2867c",
+      "description": "Days after St. Paul police used a drone to locate and rescue a child struggling in a pond, St. Paul’s city council blocked the police department’s effort to expand its docked drone program."
+    },
+    {
+      "title": "Minnesota is 1 of only 3 states to bar prosecution of young children, the only with no exceptions",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/minnesota-is-1-of-only-3-states-to-bar-prosecution-of-young-children-the-only-with-no-exceptions/",
+      "published_at": "2026-09-10T22:15:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/10/be7b23dc-5ead-4ad2-84fb-199aa9f8894a/thumbnail/1024x576/bc81795a70c95826f9c278930717320f/7d3e2fb5a2ba709bcb7828d007f3690a.jpg",
+        "alt": ""
+      },
+      "uid": "f848db6f-cec7-4f2a-ab52-4b5778e1300c",
+      "description": "Maryland and New Hampshire have similar laws but carve out exceptions for serious violent crimes like murder and rape; Minnesota's version, effective August 1, 2026, has none.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minnesota meth trafficking ringleader sentenced to 20 years in cartel-linked scheme",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/mn-meth-trafficking-ringleader-sentenced-20-years-cartel-linked-scheme-sept-2026",
+      "published_at": "2026-09-10T21:50:19+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2022/12/e7b6f027-5ed504e8-A2.jpg",
+        "alt": ""
+      },
+      "uid": "407646e5-91bd-41f8-9d36-b5d4fa888fa2",
+      "description": "A Minnesota man who ran a drug trafficking organization tied to a southern California gang is heading to federal prison for 20 years."
+    },
+    {
+      "title": "Woman who threatened Minnesota House Speaker Lisa Demuth sentenced",
+      "summary": "A 43-year-old woman from Hugo, a small city about 20 miles northeast of Minneapolis, who pleaded guilty to making threats towards Minnesota House Speaker Lisa Demuth was sentenced on Thursday.",
+      "source": "CBS Minnesota",
+      "topic": "petty-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/woman-threatened-minnesota-house-speaker-lisa-demuth-sentenced/",
+      "published_at": "2026-09-10T20:53:05+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/07/255f11af-04fa-425c-a4b4-7ea07be0eb6b/thumbnail/1024x576/cd46a8597b0c25600dabfa216ed71f21/gettyimages-2279275938.jpg",
+        "alt": ""
+      },
+      "uid": "b13c1d95-f399-4edf-9033-4b93860fc51e",
+      "description": "A 43-year-old Hugo woman who pleaded guilty to making threats towards Minnesota House Speaker Lisa Demuth​ was sentenced on Thursday.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Judge finds Loring Park grocery store killer not guilty due to mental illness",
+      "summary": "A judge has found Taylor Schulz not guilty by reason of mental illness in the 2023 killing of an employee at a grocery store in Loring Park, a neighborhood just southwest of downtown Minneapolis.",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/judge-finds-loring-park-grocery-store-killer-not-guilty-due-mental-illness",
+      "published_at": "2026-09-10T15:55:33+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2023/12/oak-grove-grocery-mpls.jpg",
+        "alt": ""
+      },
+      "uid": "b1ca7ed8-7f00-4496-96af-7201ef5f2655",
+      "description": "A judge has found Taylor Schulz not guilty by reason of mental illness in the 2023 killing of a Loring Park grocery store employee."
+    }
+  ]
+}

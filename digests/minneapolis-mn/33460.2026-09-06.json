@@ -1,0 +1,39 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-09-06",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Rare bird released back into wild after treatment at Minnesota rehab center",
+      "summary": "The bird spent the last few months healing at the rehab center after being found at the police station in Maple Grove, a suburb about 15 miles northwest of Minneapolis, with a broken clavicle.",
+      "source": "CBS Minnesota",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/wildlife-rehab-center-rare-bird-released-sandpiper/",
+      "published_at": "2026-09-06T19:08:28+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/06/28b560ba-d488-4130-9123-8d4b1422983b/thumbnail/1024x576/72df600b35c449d1a13ed055cae17225/6a-vo-hl-rare-bird-wccob7wf.jpg",
+        "alt": ""
+      },
+      "uid": "9650b9d5-0585-48a0-b247-a7987a5f8263",
+      "questions": [
+        "Did you see the rare bird that was released back into the wild after rehab?",
+        "Have you ever come across injured wildlife around your neighborhood?"
+      ],
+      "description": "The bird spent the last few months healing at the rehab center after being found at the Maple Grove, Minnesota, police station with a broken clavicle.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Vikings",
+      "scores": [
+        "returns for 15th NFL season"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": []
+}
